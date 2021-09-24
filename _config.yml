@@ -47,7 +47,7 @@ sections: "11am, 12pm"
 
 cal_dates: >
   [
-    {"label":"F21 1st day of instruction", "date":"2021-09-23" },	
+    {"label":"F21 1st day of instruction", "date":"2021-09-27" },	
     {"label":"Univ Holiday: Veterans Day", "date":"2021-11-11" },
     {"label":"F21 instruction ends", "date":"2021-12-03" },
     {"label":"F21 finals start", "date":"2021-12-04" },
