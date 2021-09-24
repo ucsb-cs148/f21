@@ -1,0 +1,171 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs148.github.io # the base hostname & protocol for your site
+baseurl: /f21  # the subpath of your site, e.g. "/blog"
+
+include:
+  - _pages
+exclude:
+  - .sass-cache
+  - Gemfile
+  - LICENSE
+  - .bundle
+
+course: "CS148"
+qtr: "F21"
+qxx: "F21"
+quarter: "Fall 2021"
+piazza_url: piazza.com/ucsb/spring2021/cs148
+gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=117032
+github_org_name: ucsb-cs148-f21
+github_org_url: https://github.com/ucsb-cs148-f21
+slack_url: https://ucsb-cs148-f21.slack.com
+
+ta_list: "Alan Roddick, Nagarjun Avaraddy"
+ta_list_full: "Alan Roddick, Nagarjun Avaraddy"
+mentors_list: "Bryan Terce, Vincent Tieu"
+
+github_url: https://github.com/ucsb-cs148/f21
+mentor_url: https://ucsb-cs148-holl-mentors.github.io
+
+on_campus: http://proquest.safaribooksonline.com
+off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
+hfj_url: book/programming/java/0596009208
+hfdp_url: book/software-engineering-and-development/patterns/0596007124 
+
+submit_cs_course: TBD
+
+start_week: 1
+start_date: 2021-09-27
+num_weeks: 10
+extra_exam_week: true
+sections: "11am, 12pm"
+
+cal_dates: >
+  [
+    {"label":"F21 1st day of instruction", "date":"2021-09-23" },	
+    {"label":"Univ Holiday: Veterans Day", "date":"2021-11-11" },
+    {"label":"F21 instruction ends", "date":"2021-12-03" },
+    {"label":"F21 finals start", "date":"2021-12-04" },
+    {"label":"F21 finals end", "date":"2021-12-10" },
+    {"label":"F21 qtr ends", "date":"2021-12-10" }
+  ]
+
+
+
+hwk_drop_lowest: three
+
+
+kramdown:
+   parse_block_html: false
+
+
+exclude:
+   - vendor
+
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  project:
+    output: true
+    permalink: /project/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+  staff:
+    output: true
+    permalink: /staff/:path
+  admin:
+    output: true
+    permalink: /admin/:path
+
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  - 
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  - 
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  - 
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: project
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  - 
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: info
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
+  -
+    scope:
+     path: ""
+     type: staff
+    values:
+     layout: staff
+  -
+    scope:
+     path: ""
+     type: admin
+    values:
+     layout: default
+
+  - scope:
+     path: ""
+     type: pages
+    values:
+     layout: default
+
+head_scripts:
+   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML

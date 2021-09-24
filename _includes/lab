@@ -1,0 +1,2 @@
+{%- capture lab_url -%}/lab/{{include.lab }}{%- endcapture -%}
+[{{ include.lab }}]({{lab_url | relative_url }})

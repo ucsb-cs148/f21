@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}    
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+  </head>
+  <body id="page-top">
+    <div class="container">
+    {% include nav.html %}
+    <div id="content"  class="ui-content">
+      <h1>{{ site.course}} Staff, {{ site.qtr}}</h1>
+
+
+      {% if page.name %}
+      <h2>{{ page.name }}</h2>
+      {% endif  %}
+
+      {% if page.img %}
+<figure class="figure d-none d-lg-block"
+     style="float:right; width:500px; padding:4px; margin:4px; text-align:center;">
+<!-- d-none and d-lg-block means: hide on screens smaller than lg-->
+<!-- lg is a bootstrap setting for the width of the screen -->
+<!-- see: https://getbootstrap.com/docs/4.1/utilities/display/ -->
+<!-- see also: https://getbootstrap.com/docs/4.0/content/figures/ -->
+{%- capture image_url %}/staff/{{page.img}}{%- endcapture -%}
+<img class="figure-img img-fluid rounded"
+     src="{{ image_url | relative_url }}"
+     alt="{{page.name}} image">
+
+<figcaption class="figure-caption text-center">
+{{page.name}}
+</figcaption>
+</figure>
+
+      {% endif %}
+      
+        
+      {{ page.bio }}
+	
+      {{ content }}
+
+      {%- if page.category_prefix -%}
+        {% if page.category_prefix %}
+          {% include category_index.html %}
+        {% endif %}    
+      {%- endif -%}
+      
+    </div><!-- content -->
+    {% include footer/custom.html %}
+    {% include footer.html %}
+    </div><!-- container -->
+  </body>
+</html>

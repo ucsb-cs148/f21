@@ -1,0 +1,14 @@
+
+Follow the link to access special instructions related to each progress report.
+
+<table class="asn_table">
+{%- for prgRpt in site.project -%}
+{%- if prgRpt.prgRptNum -%}
+<tr>
+  <td><a href="{{prgRpt.url | relative_url}}">{{prgRpt.prgRptNum}}</a></td>
+  <td>{{prgRpt.due | date: "%a %-d %b, %I:%M%P" }}</td>
+  <td>{{prgRpt.presOrder}}</td>
+</tr>
+{%- endif -%}
+{%- endfor -%}
+</table>
