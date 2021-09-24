@@ -11,19 +11,23 @@ ready: false
 * **Lecture**: 3:30pm-4:15pm TR. Attendance is expected, but offline participation through recordings is enabled for people in other time zones. 
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Mentors**: {{site.mentors_list}} (contact via Slack)
-* **Lab** (50 minute discussion section) Friday {{site.sections}}, Attendance is expected, but alternative Section may be offered for teams in other time zones.                                       
-* Office Hours: See: <http://www.cs.ucsb.edu/~holl/CS148>  
+* **Lab** (50 minute discussion section) Friday {{site.sections}}, Attendance is required -- a lot of team work will happen in class.                                       
+* Office Hours: Instructor and TAs will offer in-person office hours. Mentors will offer virtual office hours. See [OH Calendar](https://ucsb-cs148.github.io/f21/info/office_hours/)!   
 
-For course resource links, please visit the course [Gauchospace site](https://gauchospace.ucsb.edu/courses/course/view.php?id=117032).
+For course resource links, please visit the course [Gauchospace site](https://gauchospace.ucsb.edu/courses/course/view.php?id=138597).
+https://www.gradescope.com/courses/318403
 
 # About the Course
 
-The [official course description](http://www.cs.ucsb.edu/education/courses/cmpsc-148) is here:
+The [official course description](https://cs.ucsb.edu/education/courses/course-descriptions/computer-science-project) states:
 
 <div style="background-color:#eee; border: 8px inset #333; font-size:90%; margin:1em; width:50em; padding: 0.5em;" markdown="1">
 
 **Prerequisite**: *Computer Science 32 with a grade of C or
-better*.<br> Team-based project development. Topics include software
+better*.<br> 
+** Enrollment Comments**: *Not open for credit to students who have completed Computer Science 48 with a grade of C or better*.
+**Repeat Comments**: *CMPSC 148 is a legal repeat of CMPSC 48*.
+Team-based project development. Topics include software
 engineering and professional development practices,interface design,
 advanced library support; techniques for team-oriented design and
 development, testing and test-driven development, and software
@@ -37,7 +41,7 @@ projects.
 
 The formula to determine your course grade average is explained in the table below.
 
-There will be no exam this quarter, which will be held again exlusively with remote instruction.  Class grades will be assigned based on performance on homework assignemnts, possible in-class assignments, points alotted for work in the Lab sections (toward the team projects), and points for the final project product and demonstration. 
+This quarter the class will be held again exlusively in-person.  Class grades will be assigned based on performance on homework assignemnts, possible in-class assignments, points alotted for work in the Lab sections (toward the team projects), and points for the final project product and demonstration. There will be a peer-evaluation component based on contributions to the team as well. 
 
 To convert final averages to letter grades, a standard 10 point scale will be used, with the upper and lower ends of each range as +/- grades, except
 for A+ grades, see below.  There is no "rounding up"; a grade of 86.9999 is a B and a grade of 87.0000 is a B+.
@@ -56,7 +60,7 @@ Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
 
 If you miss a class or the submission of any of the above deliverables, you miss the opportunity for the points on that deliverable that was due. 
 
-There is no makeup. In lieu of providing a makeup opportunity, I will
+There is no makeup. In lieu of providing a makeup opportunity, we will
 drop the lowest {{ site.hwk_drop_lowest }} homework/in-class-assignment grades (which may be
 zeros if you miss an assignment.) Each homework and in-class-activity
 will be of equal value (100 pts).
@@ -92,12 +96,12 @@ So:
 
 This course is, to a large extent, about *process*,  including the process by which indivduals work together on a team.
 
-Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here. But we recognize the difficulties of attending from vastly different time zones, so all lectures, and the announcements for labs will get recorded and posted to our unlisted YouTube playlist. 
+Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here.  
 
 
 # Questions about grades
 
-**Summary: regrade requests must be made only on GradeScope, and always within one week.**
+**Summary: homework regrade requests must be made only on GradeScope, and always within one week.**
 
 From time to time, the people who grade your papers may make clerical
 errors in grading (e.g. adding up points wrong or applying a rubric
@@ -105,7 +109,7 @@ incorrectly.) For this reason, you are encouraged to review your
 grades as they are posted to Gradescope and Gauchospace. You will
 typically get an email as soon as each grade is posted. From the time
 the grade is posted, you will have one calendar week to post regrade
-requests. These must be made ONLY through Gradescope, ON the correct
+requests. Requests on homework regrading must be made ONLY through Gradescope, ON the correct
 problem. (Don't request a regrade for question 4 on the page for
 question 7.)
 
