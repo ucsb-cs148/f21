@@ -25,6 +25,7 @@ where the instructor, TA and LAs will be available.
 We haven't had a chance to work out all the details yet.  Stay tuned.
 
 # Class mechanics
+
 * Go over Syllabus 
   
 
@@ -32,6 +33,9 @@ We haven't had a chance to work out all the details yet.  Stay tuned.
 
 * h00 is posted on Gauchospace/Gradescope
 
+# Preparation for Monday class
+
+* Think about project ideas. On Monday, you will put up at least one, possibly multiple, project ideas for voting and group formation.
 
 # Goals for section today
 
