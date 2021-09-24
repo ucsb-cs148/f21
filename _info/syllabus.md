@@ -51,8 +51,8 @@ A+ grades: These may be awarded to the very best performing students in the clas
 | Grade Item                                                                   | Percentage of Final Grade |
 |------------------------------------------------------------------------------|---------------------------|
 | Hwks, In Class Assignments   | 25% |
-| Project Grade (labs)    | 25% or 35% |
-| Project Grade (final product)   | 30% or 40% |
+| Project Grade (labs)    | 25% to 35% |
+| Project Grade (final product)   | 30% to 40% |
 | Exam (if held) | 20% | 
 | Team work component (assessed through peer evals) | up to 10% |
 
