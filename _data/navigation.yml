@@ -34,6 +34,57 @@ main_dropdown:
 
 offering_menus:
   -
+    term: F21
+    baseurl: /f21
+    items:
+
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Teams
+        url: /teams_page/
+        description: "Teams List"
+      - title: Lectures
+        url: /lectures/
+        description: "Project"
+      - title: Exam
+        url: /exam/
+        description: "Exams"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: More
+        dropdown:
+           - title: Syllabus
+             url: /info/syllabus/
+             description: "Syllabus"    
+           - title: Info Pages
+             url: /info/
+             description: "List of General Information Pages"
+           - title: Office Hours	
+             url: /info/office_hours/
+           - title: Staff
+             url: /staff/
+      - title: Links
+        dropdown:	 
+           - title: Gauchospace
+             url: https://gauchospace.ucsb.edu
+             description: "Overall Grade Information"
+           - title: GradeScope
+             url: https://gradescope.com
+             description: "HW and Lab Grades"
+           - title: Piazza
+             url: https://piazza.com
+             description: "Q&A Forum"
+      - title: Github
+        dropdown:
+           - title: ucsb-cs148-f21
+             url: https://github.com/ucsb-cs148-f21
+
+  -
     term: S21
     baseurl: /s21
     items:
@@ -83,7 +134,7 @@ offering_menus:
         dropdown:
            - title: ucsb-cs148-s21
              url: https://github.com/ucsb-cs148-s21
-
+             
   -
     term: F20
     url: https://sites.cs.ucsb.edu/~ckrintz/classes/cs148/index.html
