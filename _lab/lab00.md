@@ -2,18 +2,18 @@
 desc: First day of class (section)
 lecture_date: 2021-09-24 11:00
 num: lab00
-ready: false
+ready: true
 
 ---
 
 # Announcements
 
 * Teaching Team Introduction
-* Please fill out the [Student Survey](https://bit.ly/tba) (required for enrolled students) 
+* Please fill out the [Student Survey](https://bit.ly/cs148-studentinfo) (required for enrolled students) 
 
 # "Open Lab Hours"
 
-* We have two TAs: Alan Roddick 
+* We have two TAs: Alan Roddick and Nagarjun Avaraddy
 * We have one Reader: Wei-Yee Goh
 * There are currently two Learning Assistants: Bryan Terce, Vincent Tieu
 * We have two Lab Sections: Fri, 11am PDT and noon PDT. People in the same group need to be in the same lab section. We may be able to swap some people based on group formation preferences and availability.  
