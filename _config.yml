@@ -40,14 +40,14 @@ hfdp_url: book/software-engineering-and-development/patterns/0596007124
 submit_cs_course: TBD
 
 start_week: 1
-start_date: 2021-09-26
+start_date: 2021-09-19
 num_weeks: 10
 extra_exam_week: true
 sections: "11am, 12pm"
 
 cal_dates: >
   [
-    {"label":"F21 1st day of instruction", "date":"2021-09-27" },	
+    {"label":"F21 1st day of instruction", "date":"2021-09-23" },	
     {"label":"Univ Holiday: Veteran's Day", "date":"2021-11-11" },
     {"label":"Univ Holiday: Thanksgiving", "date":"2021-11-25" },
     {"label":"Univ Holiday: Thanksgiving", "date":"2021-11-26" },
