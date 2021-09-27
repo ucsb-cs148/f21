@@ -2,12 +2,12 @@
 desc: Project Team Formation
 lecture_date: 2021-09-27 14:00
 num: lect00
-ready: false
+ready: true
 
 ---
 
 
-This day was devoted to assignment of students to teams and projects.
+This day is devoted to assignment of students to teams and projects.
 
 # Project Formation Tool 
 
@@ -15,31 +15,28 @@ This day was devoted to assignment of students to teams and projects.
 
 * The app is one that will allow us to generate project idea, and then rate one another's ideas.
 * It is intended to reproduce an exercise called [25:10](http://www.liberatingstructures.com/12-2510-crowd-sourcing/)
-  that is the basis for how Prof. Conrad and I have generated project idea for CMPSC 48 in W19 and W20.
+  that is the basis for how Prof. Conrad and I have generated project ideas for CMPSC 48 in W19 and W20.
 
-However, that exercise requires face-to-face interation and is done with index cards, or pieces of paper.
-
-We tried to build an app that could do that same exercise, but via a webapp.
+However, that exercise requires face-to-face interation and is done with index cards, or pieces of paper. Starting with S20, we were using a web app that could support that same exercise, but also work in a remote teaching setting (S20, S21). Since using the app seemed to be more enjoyable for students, we will continue using it even though we're all in the same classroom again.   
 
 # What you'll do next
 
-
-* We will paste a URL into the chat window of Zoom
-  * There are separate links for each discussion section. 
-  * Be sure you click on the right one (noon, 1pm, 2pm, or 3pm)
-* Please open that app, and login with your UCSB email address (name@ucsb.edu).
+* We will announce the URL of the web app.
+* Please open that app, and login with your UCSB email address (name@ucsb.edu) - it's the email that is on the class roster (the default one you got messaged to from GauchoSpace).
 * You should see that in the upper right hand corner, you have the role "student".
 * If so, it's working!
-* Then we'll go into breakout rooms to make it easier to help folks who are having trouble.
+* If not, pleasee flag a teaching team member, and we'll help you get set up. 
 
 # If you have the student role
 
 * **Enter a project idea**. You should see a form where you can enter a project idea. 
-  * You have 10 minutes.  Come up with the best project idea you can in 10 minutes.
+  * You have 10 minutes.  Come up with (or pick the best project idea you thought about over the weekend) you can in these 10 minutes.
   * If you can't come up with a good project idea, put in a mediocre project idea.
   * Don't stress over this too much.  We are grading this on participation, and doing your best, not on 
     the quality of your idea.
   * Nevertheless, come up with the best idea you can!
+  * If you have a great second (or third) idea, flag down a teaching team member, and we'll help you enter those. The web app unfortunately only allows one idea entry per email address.  
+
 * **Rate other project (at least five)**.
   * Once you've put in a project idea, you'll be able to rate other students project ideas (anonymously).
   * Rate at least five, but after that you can rate more if you like.
@@ -49,15 +46,16 @@ After about 20 minutes, or after we see that everyone is done, we'll reconvene i
 
 For the top-rated submitted project ideas, we will follow this protocol:
 
-* Instructor read the project idea
-* Asked if the submitter of that project idea wanted to claim it, and try to form a team around that idea.
+* Instructor reads the project idea
+* Asks if the submitter of that project idea wants to claim it, and try to form a team around that idea.
 
 ## IF the submitter identifies themselves, try to let the form a team
 
 * Instructor asks if the submitter wants to form a project team around the idea
    * If no, proceed to "If a team not formed by original submitter"
-* Instructor asks if the submitter can coordinate with the team in the Fri 1pm Section. If not, we will attempt to accommodate a second Lab Section that may work better with other time zones. 
+* Instructor asks if the submitter can coordinate with the team in **their** Discussion Section (Fri 11am or Fri noon).
 * Instructor asks which students that can make that Section are interested in that project.
+* We will announce a URL to a Google Spreadsheet in which team members can self-enter.
 
 If there are exactly 4, 5 or 6 hands (including the submitter), those students immediately form a team. 
 * We create a Slack channel for that team. 
