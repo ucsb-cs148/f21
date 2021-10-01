@@ -46,7 +46,10 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 4 below, 
 <div class="grade" markdown="1">
 
 **Graded**: (20 pts) You earn these points if/only if:
-* your group reached **Milestone 1** described below in Step 2, every member did a pull request to submit a file named after their name in the teams folder from their own branch, and the team together created a NORMS.md file.
+* your group reached **Milestone 1** described below in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file.
+This is the goal for Section today. 
+
+Over the coming week: 
 
 **Graded**: (20 pts) You earn these points if/only if:
 * your group logged your first Scrum meetings (including `lab01.md` and `lec03.md`) in the `sprint00` subfolder. 
@@ -237,6 +240,12 @@ if there are multiple pull requests for this file.   You should be careful, howe
 
 The `team/NORMS.md` file should contain all of the team norms.  It is ok to "suggest" team norms in your individual team/first-name.md files, but the team, ultimately, should consolidate all of these into one `team/NORMS.md` file.
 
+<div class="grade" markdown="1">
+
+**Graded**: (20 pts) You earn these points if/only if:
+* your group reached **Milestone 1** described below in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file.
+
+</div>
 
 # To be completed over the coming week: 
 
