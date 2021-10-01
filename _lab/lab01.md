@@ -41,7 +41,23 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 * TA will go over today's lab work (do be done in team groups) 
 
 
-This lab has two components. One part to complete ASAP (Step 0 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Oct. 8th 2021. One week is the typical time period for lab assignments. In each lab starting with next week (10/08), you should make sure as a team that you have completed all lab deliverables from the previous week. 
+## Step 0: Find your assigned seat and meet your mentors
+
+Seating charts are here:
+
+| Row | 11am | 12pm |
+|-----|-----|-----|
+|1 | **t01-sbrideshare** (Vincent, Alan)     &     **t02-clubrush** (Nagarjun, Zechen) | **t06-campusmaps** (Bryan, Zechen) |
+|2 | **t07-musictaste** (Alan, Vincent)	     &     **t08-servedup** (Vincent, Alan) | **t09-studygroup** (Nagarjun, Zechen) |
+|3 | **t03-fitnessguru** (Zechen, Alan) | **t10-animelist** (Bryan, Tobias) |
+|RT Window | **t04-youtubevoice** (Bryan, Nagarjun) | **t11-typingtest** (Tobias, Vincent)	|
+|RT Door | **t05-recipefinder** (Alan, Vincent)	|  | 
+{:.table .table-sm .table-striped .table-bordered}
+
+And please check in with any team member who is not in the classroom via your team channel in Slack right away! 
+
+
+This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Oct. 8th 2021. One week is the typical time period for lab assignments. In each lab starting with next week (10/08), you should make sure as a team that you have completed all lab deliverables from the previous week. 
 
 <div class="grade" markdown="1">
 
@@ -71,21 +87,6 @@ For teams of 5, this part of your grade is 6 points per team member. For teams o
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
 
 </div>
-
-
-
-## Step 0: Find your assigned seat and meet your mentors
-
-Seating charts are here:
-
-| Row | 11am | 12pm |
-|-----|-----|-----|
-|1 | **t01-sbrideshare** (Vincent, Alan)     &     **t02-clubrush** (Nagarjun, Zechen) | **t06-campusmaps** (Bryan, Zechen) |
-|2 | **t07-musictaste** (Alan, Vincent)	     &     **t08-servedup** (Vincent, Alan) | **t09-studygroup** (Nagarjun, Zechen) |
-|3 | **t03-fitnessguru** (Zechen, Alan) | **t10-animelist** (Bryan, Tobias) |
-|RT Window | **t04-youtubevoice** (Bryan, Nagarjun) | **t11-typingtest** (Tobias, Vincent)	|
-|RT Door | **t05-recipefinder** (Alan, Vincent)	|  | 
-{:.table .table-sm .table-striped .table-bordered}
 
 
 ## Step 1: Create a CoE account if you don't have one already
