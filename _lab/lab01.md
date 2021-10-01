@@ -12,7 +12,7 @@ github_org_name: ucsb-cs148-f21
 ---
 
 <div style="display:none">
-https://ucsb-cs148.github.io/s21/lab/lab01/
+https://ucsb-cs148.github.io/f21/lab/lab01/
 </div>
 
 <style>
@@ -52,7 +52,6 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 2 below, 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `01-17-2pm`)
-
 
 **Graded**: (20 pts) You earn these points if/only if:
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
