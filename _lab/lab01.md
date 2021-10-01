@@ -46,6 +46,9 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 4 below, 
 <div class="grade" markdown="1">
 
 **Graded**: (20 pts) You earn these points if/only if:
+* your group reached **Milestone 1** described below in Step 2, every member did a pull request to submit a file named after their name in the teams folder from their own branch, and the team together created a NORMS.md file.
+
+**Graded**: (20 pts) You earn these points if/only if:
 * your group logged your first Scrum meetings (including `lab01.md` and `lec03.md`) in the `sprint00` subfolder. 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
@@ -55,10 +58,10 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 4 below, 
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
 * a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
 
-**Graded (lab01-I)**: (30 pts) towards (lab01-I) is your individual grade for lab01.  Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed heroku web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
+**Graded (lab01-I)**: (20 pts) towards (lab01-I) is your individual grade for lab01.  Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed heroku web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
 The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the app review.  The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
 
-**Graded (lab01-T)**: (30 pts) (lab01-T) is your Team grade for lab01.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
+**Graded (lab01-T)**: (20 pts) (lab01-T) is your Team grade for lab01.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
 For teams of 5, this part of your grade is 6 points per team member. For teams of 4, it is 7.5 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 6 or 7.5 points for your contribution towards the whole.
 
@@ -243,7 +246,7 @@ During [lec03]({{'/lec/lec03/' | relative_url }}), you have first practiced logg
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (20) You earn these points if/only if:
 * your group logged `lec03.md` and `lab01.md` meetings in the `sprint01` subfolder. 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
@@ -389,7 +392,7 @@ Put the URL of your running app in the README in your branch.
 ## *Each* non-webapp "Hello, World" branch/pull-request should be demoed
 
 If you are NOT doing a webapp, you must set up a time with your mentor, or your TA, to demo your app to them. Mobile apps should be demoed deployed on a physical device through Zoom. You need to do 
-the demonstration BEFORE the lab next Thursday/Friday. The TAs hold 
+the demonstration BEFORE the lab next Friday. The TAs hold 
 office hours and you can arrange meeting times with your mentors during which you can schedule this demo.   The last opportunity to do this demo
 is right after or just before lab on the due date for this assignment, if you can grab your mentor or TA, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.)  Please coordinate with your team to
 get as many of these demos done *before* lab on the due date of this assignment.
@@ -400,8 +403,8 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
 
 ## Some starting points for selected platforms: 
 
-Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/ReactGoogleAuthStarter) The README.md and [an accompanying YouTube video](https://www.youtube.com/watch?v=XZceEXlYC1w&amp;ab_channel=VincentTieu)  also cover how to use the Google Develop Console and how to host the application on Heroku. 
+Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/ReactGoogleAuthStarter) The README.md and [an accompanying YouTube video](https://www.youtube.com/watch?v=XZceEXlYC1w&amp;ab_channel=VincentTieu)  also cover how to use the Google Developer Console and how to host the application on Heroku. 
 
-If you are using Heroku for hosting a web app, you may also find [these instructions from CS48 a year ago](https://ucsb-cs48.github.io/s20/lab/lab01/) helpful. 
+If you are using Heroku for hosting a web app, you may also find [these instructions from CS48 some time ago](https://ucsb-cs48.github.io/s20/lab/lab01/) helpful. 
 
 
