@@ -49,7 +49,7 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 4 below, 
 * your group reached **Milestone 1** described below in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file.
 This is the goal for Section today. 
 
-Over the coming week: 
+**--------- Over the coming week: -----------------------------------------** 
 
 **Graded**: (20 pts) You earn these points if/only if:
 * your group logged your first Scrum meetings (including `lab01.md` and `lec03.md`) in the `sprint00` subfolder. 
