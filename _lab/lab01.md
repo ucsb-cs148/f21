@@ -302,7 +302,7 @@ You'll know you have it, and you are ready for this step when:
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (20) You earn these points if/only if:
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
 * a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
 </div>
