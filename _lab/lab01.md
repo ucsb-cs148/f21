@@ -11,15 +11,15 @@ slack_url: https://ucsb-cs148-f21.slack.com
 ---
 
 
-## Step 0: Find your assigned seat and locate your mentor
+## Step 0: Find your assigned seat and meet your mentors
 
 Seating charts are here:
 
 | Row | 11am | 12pm |
 |-----|-----|-----|
-|1 | t01-sbrideshare & t02-clubrush | t06-campusmaps |
-|2 | t07-musictaste	& t08-servedup  | t09-studygroup |
-|3 | t03-fitnessguru | t10-animelist |
-|RT Window | t04-youtubevoice | t11-typingtest	|
-|RT Door | t05-recipefinder	|  | 
+|1 | t01-sbrideshare (Vincent, Alan) & t02-clubrush (Nagarjun, Zechen) | t06-campusmaps (Bryan, Zechen) |
+|2 | t07-musictaste (Alan, Vincent)	& t08-servedup (Vincent, Alan) | t09-studygroup (Nagarjun, Zechen) |
+|3 | t03-fitnessguru (Zechen, Alan) | t10-animelist (Bryan, Tobias) |
+|RT Window | t04-youtubevoice (Bryan, Nagarjun) | (Tobias, Vincent) t11-typingtest	|
+|RT Door | t05-recipefinder (Alan, Vincent)	|  | 
 {:.table .table-sm .table-striped .table-bordered}
