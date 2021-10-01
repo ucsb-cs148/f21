@@ -2,7 +2,7 @@
 desc: Scrum Process
 lecture_date: 2021-09-29 14:00
 num: lect01
-ready: false
+ready: true
 
 ---
 
@@ -13,12 +13,7 @@ Topics:
 * User Stories, Personas, Scenarios: the common language of shareholders 
 * Scrum Process 
 * Scrum Standup and Github Project Kanban Board 
-* Project group Standups and other Scrum coordination. Preparing Sprint01.
-* Scenario-Based Usability Engineering
-
-# Class slides: 
-
-<https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_ScenarioBasedDesign.pdf>
+* Project group Standups and other Scrum coordination. Preparing Sprint00.
 
 # Electronic Handouts:
 * Scrum – A Breathtakingly Brief and Agile Introduction: <https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf>
