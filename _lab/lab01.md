@@ -242,7 +242,7 @@ The `team/NORMS.md` file should contain all of the team norms.  It is ok to "sug
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (20) You earn these points if/only if:
 * your group reached **Milestone 1** described below in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file.
 
 </div>
