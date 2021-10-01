@@ -90,7 +90,7 @@ Notes for running locally
 Note for running on CSIL
 * On CSIL, disk space has typically not been an issue for Spring Boot.  However, next.js does typically take up quite a bit of disk space for dependencies and it is easy to blow past your disk quota.  This article describes some techniques for dealing with disk quota issue on CSIL: [CSIL: Disk Quota and File Quota issues](https://ucsb-cs48.github.io/topics/csil_disk_quota/)
 * When running on CSIL, a web server running on `localhost` will not be accessible in your local browser unless you take
-  special steps to make it accessible, such as setting up ssh port forwarding.  That process is described here: [CSIL: SSH Port Forwarding](https://ucsb-cs48.github.io/topics/csil_ssh_port_forwarding/)
+  special steps to make it accessible, such as setting up ssh port forwarding.  That process is described here: [CSIL: SSH Port Forwarding](https://ucsb-cs148.github.io/topics/csil_ssh_port_forwarding/)
 
 
 ## Step 2b: Install Git
@@ -130,7 +130,7 @@ Configuring ssh keys for GitHub allows us to allows us to avoid having to type i
 
 To configure your SSH keys for GitHub, follow these instructions.  
 
-* <https://ucsb-cs48.github.io/topics/github_ssh_keys/>
+* <https://ucsb-cs148.github.io/topics/github_ssh_keys/>
 
 Notes: 
 * You should generate the keys on the system where you plan to work: generate the keys on CSIL if you plan to work on CSIL, and on your laptop if you plan to work on your laptop.
@@ -138,12 +138,12 @@ Notes:
 
 ## Step 2f: Clone your repo
 
-Now, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs48`), type this command to clone your empty repo into that directory.   In place of `repo-url-goes-here`, copy the URL for the new repo you created.  That will be, for example: `git@github.com:ucsb-cs48-s20/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
+Now, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs148`), type this command to clone your empty repo into that directory.   In place of `repo-url-goes-here`, copy the URL for the new repo you created.  That will be, for example: `git@github.com:ucsb-cs148-f21/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
 
 ```
 git clone repo-url-goes-here
 ```
 
-That should create a new empty directory (well, almost empty) called `lab00-cgaucho`.  Use `cd lab00-gaucho` to put yourself i that directory.
+That should create a new empty directory (well, almost empty) called `lab00-cgaucho`.  Use `cd lab00-gaucho` to put yourself in that directory.
 
 If you then type `ls -a` you'll see that the directory is not completely empty. It contains a `.git` subdirectory, which is how you know that this is a git repo rather than an ordinary directory.
