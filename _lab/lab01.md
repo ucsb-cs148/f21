@@ -54,7 +54,7 @@ Seating charts are here:
 |RT Door | **t05-recipefinder** (Alan, Vincent)	|  | 
 {:.table .table-sm .table-striped .table-bordered}
 
-And please check in with any team member who is not in the classroom via your team channel in Slack right away! 
+And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
 
 
 This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Oct. 8th 2021. One week is the typical time period for lab assignments. In each lab starting with next week (10/08), you should make sure as a team that you have completed all lab deliverables from the previous week. 
