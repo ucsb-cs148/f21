@@ -43,8 +43,6 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 This lab has two components. One part to complete ASAP (Step 0 to Step 2 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Oct. 8th 2021. One week is the typical time period for lab assignments. In each lab starting with next week (10/08), you should make sure as a team that you have completed all lab deliverables from the previous week. 
 
-# Grading for {{page.num}}
-
 <div class="grade" markdown="1">
 
 **Graded**: (20 pts) You earn these points if/only if:
@@ -56,7 +54,6 @@ This lab has two components. One part to complete ASAP (Step 0 to Step 2 below, 
 **Graded**: (20 pts) You earn these points if/only if:
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
 * a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
-</div>
 
 **Graded (lab01-I)**: (30 pts) towards (lab01-I) is your individual grade for lab01.  Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed heroku web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
 The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the app review.  The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
