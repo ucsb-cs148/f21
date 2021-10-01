@@ -11,12 +11,65 @@ github_org_name: ucsb-cs148-f21
 
 ---
 
+<div style="display:none">
+https://ucsb-cs148.github.io/s21/lab/lab01/
+</div>
+
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
+</style>
+
+<div style="float:right; width: auto;">
+
+<table style="margin-top:1em;">
+<tr>
+   <th>Points</th>
+</tr>
+<tr>
+   <td class="pointCount"></td>
+</tr>
+</table>
+
+</div>
+
+
 ## Announcements 
 
 * COVID-19
 * Making sure teams are all 4-6 students, accommodating students without groups
 * Possibility to switch (as the whole team) from 11am to 12pm Lab Section
 * TA will go over today's lab work (do be done in team groups) 
+
+
+This lab has two components. One part to complete ASAP (Step 0 to Step 2 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Oct. 8th 2021. One week is the typical time period for lab assignments. In each lab starting with next week (10/08), you should make sure as a team that you have completed all lab deliverables from the previous week. 
+
+# Grading for {{page.num}}
+
+<div class="grade" markdown="1">
+
+**Graded**: (20 pts) You earn these points if/only if:
+* your group logged your first Scrum meetings (including `lab01.md` and `lec03.md`) in the `sprint00` subfolder. 
+* you took accurate attendance, accounting for all members of your group
+   (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
+* the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `01-17-2pm`)
+
+
+**Graded**: (20 pts) You earn these points if/only if:
+* your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
+* a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
+</div>
+
+**Graded (lab01-I)**: (30 pts) towards (lab01-I) is your individual grade for lab01.  Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed heroku web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
+The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the app review.  The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
+
+**Graded (lab01-T)**: (30 pts) (lab01-T) is your Team grade for lab01.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
+
+For teams of 5, this part of your grade is 6 points per team member. For teams of 4, it is 7.5 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 6 or 7.5 points for your contribution towards the whole.
+
+This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
+
+</div>
+
 
 
 ## Step 0: Find your assigned seat and meet your mentors
