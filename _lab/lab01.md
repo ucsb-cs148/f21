@@ -70,6 +70,8 @@ email, and confirm that email address.
 
 4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/{{site.github_org}}>). Click on the invitation link and accept it. You can also go straight to <https://github.com/{{site.github_org}}> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
+**Milestone 1**: Once all your team members have successfully joined the organization, send a message in your Slack team channel that states "Milestone 1 completed!". This is important, because we will run a program to automatically create GitHub repositories for your teams once all the teams in this Section have completed this milestone. 
+
 ## Step 2a: Decide where you will work
 
 Your first step here is to decide whether you are going to work:
