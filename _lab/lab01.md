@@ -35,8 +35,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 ## Announcements 
 
-* COVID-19
-* Making sure teams are all 4-6 students, accommodating students without groups
+* COVID-19: Cases in classes are to be expected. The system is working. Please keep everyone safe by heeding all precautions. I encourage your getting tested after a class encounter with a positive case or if you have any symptoms. If you need to quarantine, you will not have to fear any negative consequences in this class! We will make sure you continue to be in the loop with your team.
+* Making sure teams are all 4-6 students, accommodating any students without groups (everybody on our list is accounted for).
 * Possibility to switch (as the whole team) from 11am to 12pm Lab Section
 * TA will go over today's lab work (do be done in team groups) 
 
