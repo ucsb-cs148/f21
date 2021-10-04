@@ -111,7 +111,7 @@ In your README.md, put the following:
 * Elect / designate a `Scribe` for the meeting, a team member who will capture the content of the meeting. 
 * Create a `team` directory in your repo (if you haven't already done so)
 * In that directory, create a subdirectory `sprint01` 
-* Create a file in the `sprint01` directory entitled `lec02.md` (.md stands for mardown language, a simple notation to produce formatted text in ASCII). This is where the meeting notes should go that the scribe takes down:  `./team/sprint01/lec02.md`. For future meetings, you will replace 'lec02' with the respective meeting time denominator (e.g. lab01, lec05 or 04-17-2pm). The notes should state if this meeting was a special Scrum meeting (Sprint Planning, Story Time, Retrospective, or a simple daily Scrum/Standup).
+* Create a file in the `sprint01` directory entitled `lect02.md` (.md stands for mardown language, a simple notation to produce formatted text in ASCII). This is where the meeting notes should go that the scribe takes down:  `./team/sprint01/lect02.md`. For future meetings, you will replace 'lect02' with the respective meeting time denominator (e.g. lab01, lect05 or 04-17-2pm). The notes should state if this meeting was a special Scrum meeting (Sprint Planning, Story Time, Retrospective, or a simple daily Scrum/Standup).
 
 In the meeting notes, write the name of your project, your mentor, and the names of the people on your team (recording who is present, and noting those that are absent.)
 
@@ -123,7 +123,7 @@ Example:
 
 Mentor: Self-Mentored ;) 
 
-Meeting Time: lec02 
+Meeting Time: lect02 
 
 Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
@@ -157,7 +157,7 @@ Taking attendance for today's lab, and making sure your name is on your log with
 **NOTE 2**: Having a group member (or two) absent will not cause your group's grade to be reduced.  However you are require to *record* attendance
 in order for the group to get full credit for the lab. In the future, team members that cannot make it to a meeting should message their information to the meeting lead beforehand.
 
-**NOTE 3** In the future, meeting time can also be something like lec05 (for Lecture 5), or 10-17-2pm for an out-of-class-time meeting.
+**NOTE 3** In the future, meeting time can also be something like lect05 (for Lecture 5), or 10-17-2pm for an out-of-class-time meeting.
 
 In your github repository, you will structure the documentation of your meetings into 'sprints' (your team will decide on the Sprint length / interval. Typically, for this class a Sprint is one or two weeks). 
 
