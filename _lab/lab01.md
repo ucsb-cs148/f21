@@ -231,7 +231,7 @@ Each team member should do this individually. Note that this will be publicly di
    
 ### Step 3b: Do a pull request from your branch that has your file called `team/your_first_name.md`.
 
-Do a pull request from your branch to the master branch of the repo.  Each team member should have done at least
+Do a [pull request](https://www.better.dev/create-your-first-github-pull-request) from your branch to the master branch of the repo.  Each team member should have done at least
 one pull request from their github id.
    
 ## Step 4: Create your team/NORMS.md file
