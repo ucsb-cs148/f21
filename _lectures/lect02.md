@@ -117,7 +117,7 @@ In the meeting notes, write the name of your project, your mentor, and the names
 
 Example:
 
-<div style="width: 50em; height: 40em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
+<div style="width: 50em; height: 46em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
 
 # Project: Teaching CS148
 
