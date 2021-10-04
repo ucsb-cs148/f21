@@ -21,7 +21,7 @@ You should have been:
 Today, you'll also again be working in groups with your team during the class time.    
 
 # Lecture: First introduction to Web Technologies (HTML, CSS, JavaScript)
-We briefly discuss a presentation on the basics of web app technologies. 
+We briefly discuss [a presentation on the basics of web app technologies](<https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_ScenarioBasedDesign.pdf>). 
 
 
 # The Slack: `_articles` vs. `_help` channels
