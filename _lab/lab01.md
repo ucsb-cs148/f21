@@ -68,7 +68,7 @@ This is the goal for Section today.
 **--------- Over the coming week: -----------------------------------------** 
 
 **Graded**: (20 pts) You earn these points if/only if:
-* your group logged your first Scrum meetings (including `lab01.md` and `lec03.md`) in the `sprint00` subfolder. 
+* your group logged your first Scrum meetings (including `lab01.md` and `lec02.md`) in the `sprint01` subfolder. 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `10-17-2pm`)
@@ -252,7 +252,7 @@ The `team/NORMS.md` file should contain all of the team norms.  It is ok to "sug
 
 ## Step 5: Document your meetings
 
-During [lec02]({{'/lec/lec02/' | relative_url }}), you have first practiced logging meetings in GitHub. Make sure to log today's meeting as well, and capture it as `lab01.md` in the `sprint01` folder you created in lecture. Reminder: In your github repository, you structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
+During [lec02]({{'/lectures/lec02/' | relative_url }}), you have first practiced logging meetings in GitHub. Make sure to log today's meeting as well, and capture it as `lab01.md` in the `sprint01` folder you created in lecture. Reminder: In your github repository, you structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
 
 <div class="grade" markdown="1">
 
