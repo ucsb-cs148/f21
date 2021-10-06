@@ -47,11 +47,11 @@ Seating charts are here:
 
 | Row | 11am | 12pm |
 |-----|-----|-----|
-|1 | **t01-sbrideshare** (Vincent, Alan)     &     **t02-clubrush** (Nagarjun, Zechen) | **t06-campusmaps** (Bryan, Zechen) |
-|2 | **t07-musictaste** (Alan, Vincent)	     &     **t08-servedup** (Bryan, Nagarjun) | **t09-studygroup** (Nagarjun, Zechen) |
-|3 | **t03-fitnessguru** (Zechen, Alan) | **t10-animelist** (Bryan, Tobias) |
-|RT Window | **t04-youtubevoice** (Bryan, Nagarjun) | **t11-typingtest** (Tobias, Vincent)	|
-|RT Door | **t05-recipefinder** (Alan, Vincent)	|  | 
+|1 | **t01-sbrideshare** (Alan, Vincent)     &     **t02-clubrush** (Nagarjun, Kaiwen/Tobias) | **t06-campusmaps** (Bryan, Hunter/Tobias) |
+|2 | **t07-musictaste** (Alan, Nagarjun)	     | **t09-studygroup** (Nagarjun, Hunter/Tobias) |
+|3 | **t03-fitnessguru** (Hunter/Tobias, Alan) | **t10-animelist** (Kaiwen/Tobias, Bryan) |
+|RT Window |  **t08-servedup** (Vincent, Bryan)| **t11-typingtest** (Tobias, Vincent)	| 
+|RT Door | **t05-recipefinder** (Vincent, Alan)| **t04-youtubevoice** (Bryan, Nagarjun) |
 {:.table .table-sm .table-striped .table-bordered}
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
