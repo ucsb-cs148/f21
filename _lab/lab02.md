@@ -48,7 +48,7 @@ lab02 is a team-based grade for several check points towards the MVP demo.
 
 <div class="grade" markdown="1">
  
-**Graded: ({{page.num}}-T)** (10 pts) When at least one Sprint Planning meeting took place and was documented in a new team/sprint0?/ folder (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf).
+**Graded: ({{page.num}}-T)** (10 pts) When at least one Sprint Planning meeting took place and was documented in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf).
 
 **Graded: ({{page.num}}-I)**: (10 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
 
