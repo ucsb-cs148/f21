@@ -1,11 +1,11 @@
 ---
-assigned: 2020-04-16 13:00
+assigned: 2020-10-08 11:00
 desc: Kanban Boards towards MVP Demo Video
-due: 2021-04-23 14:00
-due_2_weeks: 2021-04-30 14:00
+due: 2021-10-15 14:00
+due_2_weeks: 2021-10-22 14:00
 layout: lab
 num: lab02
-ready: false
+ready: true
 github_org: ucsb-cs148-f21
 ---
 
@@ -58,11 +58,11 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 
 **Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
 
-* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/s21/lab/lab02-addendum))  
+* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/f21/lab/lab02-addendum))  
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
-   For teams of 5, this part of your grade is 4 points per team member.  For teams of 4, it is 5 points per team member. 
+   For teams of 5, this part of your grade is 4 points per team member.  For teams of 4, it is 5 points per team member, for teams of 6 it is 3.17 points. 
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -93,7 +93,7 @@ Throughout the rest of the course, up until we wrap things up with the final pro
 * ensure that each team member, at all times, is assigned to at least one in-progress issue
 * limit the number of in-progress issues.  
 
-Being assigned to more than one in-progress issue is occasionally unavoidable, but typically not ideal.  An example of a case where you may be tempted to do it is when you are blocked on an issue (e.g. waiting for someone else to finish something you need). In that case, you might decide to start another issue so that you are assigned to two in-progress issues at a tine.  
+Being assigned to more than one in-progress issue is occasionally unavoidable, but typically not ideal.  An example of a case where you may be tempted to do it is when you are blocked on an issue (e.g. waiting for someone else to finish something you need). In that case, you might decide to start another issue so that you are assigned to two in-progress issues at a time.  
 
 But the experience of most teams is that it's best to try not to do this too often.  
 
@@ -115,8 +115,8 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 **Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* (10 pts) naming a retro leader for the [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/)) retro and record their name in your new LEADERSHIP.md file (described in [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
-* (10 pts) your LEARNING.md file (described in [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/)) is filled with information about your tech stack background and learning trajectory.  
+* (10 pts) naming a retro leader for the [lect06](https://ucsb-cs148.github.io/f21/lectures/lect06/)) retro and record their name in your new LEADERSHIP.md file (described in [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) your LEARNING.md file (described in [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) is filled with information about your tech stack background and learning trajectory.  
 </div>  
 
 # MVP Demo, due {{page.due_2_weeks}}
@@ -130,7 +130,7 @@ The [link on Gauchospace]({{page.gauchospace}}) is where you upload the link to 
 Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
 with people other than enrolled students and course staff.
 
-Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/s21/lectures/lect12/>,
+Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/f21/lectures/lect12/>,
 which are repeated here:
 
 ## Demo of your production app
