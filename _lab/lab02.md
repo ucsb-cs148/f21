@@ -48,7 +48,9 @@ lab02 is a team-based grade for several check points towards the MVP demo.
 
 <div class="grade" markdown="1">
  
-**Graded: ({{page.num}}-I)**: (20 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
+**Graded: ({{page.num}}-T)** (10 pts) When at least one Sprint Planning meeting took place and was documented in a new team/sprint0?/ folder (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf).
+
+**Graded: ({{page.num}}-I)**: (10 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
 
 * are assigned to an issue that has been moved from To-Do to In-Progress to Done on the Kanban board, tracking the progress of your issue from start to finish.
 
@@ -115,8 +117,8 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 **Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* (10 pts) naming a retro leader for the [lect06](https://ucsb-cs148.github.io/f21/lectures/lect06/)) retro and record their name in your new LEADERSHIP.md file (described in [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
-* (10 pts) your LEARNING.md file (described in [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) is filled with information about your tech stack background and learning trajectory.  
+* (10 pts) naming a retro leader for the [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
 </div>  
 
 # MVP Demo, due {{page.due_2_weeks}}
