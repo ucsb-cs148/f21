@@ -1,11 +1,11 @@
 ---
 layout: lab
 num: lab06-part1
-ready: true
+ready: false
 desc: "Retro2 Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
-assigned: 2021-05-14 13:00
-due: 2021-05-21 14:00
-github_org: "ucsb-cs148-s21"
+assigned: 2021-11-12 11:00
+due: 2021-11-19 23:59
+github_org: "ucsb-cs148-f21"
 ---
 
 <style>
