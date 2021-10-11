@@ -2,7 +2,7 @@
 desc: "Project Management: README.md, Leadership, Retros, Learning plan"
 lecture_date: 2021-10-11
 num: lect04
-ready: false
+ready: true
 ---
 
 
@@ -26,12 +26,10 @@ Brief discussion of retros
 
 # Team Activity #1 in `team/LEADERSHIP.md`
 
-Your project repo should have a name of the form `{1pm,8pm}-t?-project-name`. Please rename accordingly! 
-
 In your project repo, in file `team/LEADERSHIP.md`
 - record who led any previous planning meetings
 - schedule, and record who will lead the next Sprint planning meeting
-- record who will lead the full first team retro (Tuesday)
+- record who will lead the full first team retro (Wednesday)
 
 You can use a Markdown table to make this easy to read.  It's fine to just record this directly on the `master` branch, even editing directly in the GitHub web interface.
 
@@ -42,11 +40,14 @@ Example:
 
 | Date      | Name              | Activity                                               |
 |-----------|-------------------|--------------------------------------------------------|
-| Mon 04/13 | Chris Gaucho      | Led team discussion to define MVP                      | 
-| Tue 04/14 | Lauren del Playa  | Led team discussion of Sprint01 and learning plan      | 
-| Mon 04/20 | Taylor Chen       | Will lead first Retro                                  | 
+| Mon 10/04 | Chris Gaucho      | Led team discussion to define MVP                      | 
+| Tue 10/05 | Lauren del Playa  | Led team discussion of Sprint01 and learning plan      | 
+| Wed 10/13 | Taylor Chen       | Will lead first Retro                                  | 
 
 ```
+
+# Sprint Planning
+Part of your [lab02](https://ucsb-cs148.github.io/f21/lab/lab02/) deliverables include documentation of at least one Sprint Planning meeting in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf). It is OK for such a meeting to already have happened and to be documented retroactively.
 
 # Team Activity #2 in `team/LEARNING.md`
 
@@ -80,6 +81,7 @@ An ideal plan will incorporate both breadth and depth:
 * breadth involves baseline skills: everyone on the team should at least have certain baseline skills in the tech stack
 * for depth, use divide-and-conquer: not everyone on the team needs to be a deep expert in everything
 
+
 # A *Partial* List of important technologies, by Stack
 
 You might use this list to come up with ideas for your `/team/LEARNING.md` file.
@@ -111,10 +113,10 @@ Note that:
 ## Spring Boot
 
 * Maven <https://ucsb-cs48.github.io/javatopics/maven/>
-  * And list of Maven topics here: <https://ucsb-cs48.github.io/javatopics/>
+  * And list of Maven topics here: <https://ucsb-cs148.github.io/javatopics/>
 * Spring Boot <https://ucsb-cs48.github.io/javatopics/spring_boot/>
-  * And list of Spring Boot topics here: <https://ucsb-cs48.github.io/javatopics/>
-* Thymeleaf <https://ucsb-cs48.github.io/javatopics/thymeleaf/>
+  * And list of Spring Boot topics here: <https://ucsb-cs148.github.io/javatopics/>
+* Thymeleaf <https://ucsb-cs148.github.io/javatopics/thymeleaf/>
 
 
 ## Project Specific APIs, data sources, etc.
@@ -147,8 +149,8 @@ You may want to make such repos part of your learning plan.
 
 * MVP kanban board column (if not *fully* done)
   - If the Kanban board column for your MVP is not complete (i.e all stories groomed with clear acceptance criteria), work on that.   
-  - This should be finished by Thursday if possible, next Monday midnight *at the latest* so your team is ready to start working a week from today.
-* Finish anything you were "in the middle of" when time ran out yesterday.
+  - This should be finished by Wednesday if possible, Friday midnight *at the latest* so your team is making progress! 
+* Finish anything you were "in the middle of" when time ran out last Section.
 * If that's done, choose either:
   - Get started on the learning plan
   - Futher definition on iterations beyond MVP
