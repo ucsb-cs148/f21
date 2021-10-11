@@ -28,7 +28,7 @@ Brief discussion of retros
 
 In your project repo, in file `team/LEADERSHIP.md`
 - record who led any previous planning meetings
-- schedule, and record who will lead the next Sprint planning meeting
+- schedule, and record who has led / will lead your current Sprint planning meeting
 - record who will lead the full first team retro (Wednesday)
 
 You can use a Markdown table to make this easy to read.  It's fine to just record this directly on the `master` branch, even editing directly in the GitHub web interface.
