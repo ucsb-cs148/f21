@@ -2,7 +2,7 @@
 desc: "First Retrospective"
 lecture_date: 2021-10-13
 num: lect05
-ready: false
+ready: true
 ---
 
 <style>
@@ -22,15 +22,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
-# Grading for First Retro Participation and Artifact is part of **Lab03 (Fri, Apr. 23 - Fri Apr. 30)**
+# Grading for First Retro Participation and Artifact is part of **Lab03 (Fri, Oct. 15 - Fri Oct. 22)**
 
 <div class="grade" markdown="1">
 
 **Graded**: ({{page.num}}-I) (5 pts) You earn these individual points if you participated in this retrospective.
 
-**Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you will get email invitations and reminders for.
-
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 3.33 per team member for teams of 6, 4 per team member for teams of 5,  5 points per team member for teams of four.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions.
 
@@ -56,7 +54,7 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
 * Add the following information:
 
   ```
-  # Date of Retrospective: 04/20/21
+  # Date of Retrospective: 10/13/21
 
   * Led by: name-goes-here
   * Present: name1, name2, ... , nameN
