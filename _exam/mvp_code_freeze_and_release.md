@@ -2,24 +2,16 @@
 layout: exam_info
 num: project
 ready: true
-desc: "Code Freeze"
-exam_date: 2021-12-03 23:59
+desc: "MVP Code Freeze and Release"
+exam_date: 2021-10-25 23:59
 ---
 
 
-# Code Freeze 
+# MVP Code Freeze 
 
-By this deadline, you should have reviewed and accepted your final pull request of the quarter for any new development or other GitHub content.
-Also, the Deployment Instructions linked from your README.md are in their final form.  
+By today's deadline, you should have reviewed and accepted your final pull request for your MVP. 
+Also, the Deployment Instructions linked from your README.md are filled in and workable.  
 
-After this deadline, you
-* should NOT be adding or turning on new features
-* should NOT be doing major refactorings
-
-Permitted, with mentor approval, very occasional, a **reasonable** number of:
-* Small bug fixes (bugs that went unnoticed until final demoing)
-* Minor fixes to style issues
-
-Those changes, if any, should be ones that are easy to review and understand, and each should be in its own separate pull request.
+This is the version of your code that will be featured in your MVP videos, which will be reviewed in class on Wed, Oct. 27. 
 
 
