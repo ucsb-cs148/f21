@@ -2,7 +2,7 @@
 layout: exam_info
 num: project
 ready: true
-desc: "Code Freeze"
+desc: "Code Freeze and Final Release"
 exam_date: 2021-12-03 23:59
 ---
 
@@ -21,5 +21,6 @@ Permitted, with mentor approval, very occasional, a **reasonable** number of:
 * Minor fixes to style issues
 
 Those changes, if any, should be ones that are easy to review and understand, and each should be in its own separate pull request.
+
 
 
