@@ -91,8 +91,6 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
     based on what you learned today?
   ```
 
- 
-  **All Team members**: Fill out team peer evaluation survey (emailed to you from CATME.org)
 
 
 
