@@ -22,6 +22,11 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
+# Announcements:
+
+* [h04](https://ucsb-cs148.github.io/f21/hwk/h04/) is posted and due next Monday
+* Today: Scrum Retrospective Meeting 
+
 # Grading for First Retro Participation and Artifact is part of **Lab03 (Fri, Oct. 15 - Fri Oct. 22)**
 
 <div class="grade" markdown="1">
