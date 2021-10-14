@@ -44,7 +44,7 @@ lab02 is a team-based grade for several check points towards the MVP demo.
    sub-group of your project team can pick up and start coding from.  Each of those issues should have a clear set of criteria for
    what it means to be "done" with that issue.
     * As a team, you've settled on the work you are going to do after the Hello World phase to move towards your minimum viable product (MVP), and you've put user stories and issues in your In-Progress column for each team member.
- * You checked and updated the links in Project Spreadsheet for your team (creating and linking the files LEADERSHIP.md, LEARNING.md according to information from [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) 
+
 
 <div class="grade" markdown="1">
  
