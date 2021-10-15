@@ -47,10 +47,10 @@ Seating charts are here:
 
 | Row | 11am | 12pm |
 |-----|-----|-----|
-|1 | **t01-sbrideshare** (Alan, Vincent)     &     **t02-clubrush** (Nagarjun, Kaiwen/Tobias) | **t06-campusmaps** (Bryan, Hunter/Tobias) |
+|1 | **t01-sbrideshare** (Vincent, Alan)     &     **t02-clubrush** (Nagarjun, Kaiwen/Tobias) | **t06-campusmaps** (Alan, Hunter/Tobias) |
 |2 | **t07-musictaste** (Alan, Nagarjun)	     | **t09-studygroup** (Nagarjun, Hunter/Tobias) |
-|3 | **t03-fitnessguru** (Hunter/Tobias, Alan) | **t10-animelist** (Kaiwen/Tobias, Bryan) |
-|RT Window |  **t08-servedup** (Vincent, Bryan)| **t11-typingtest** (Tobias, Vincent)	| 
+|3 | **t03-fitnessguru** (Bryan, Hunter/Tobias) | **t10-animelist** (Bryan, Kaiwen/Tobias) |
+|RT Window |  **t08-servedup** (Tobias/Hunter, Bryan)| **t11-typingtest** (Tobias/Kaiwen, Vincent)	| 
 |RT Door | **t05-recipefinder** (Vincent, Alan)| **t04-youtubevoice** (Bryan, Nagarjun) |
 {:.table .table-sm .table-striped .table-bordered}
 
