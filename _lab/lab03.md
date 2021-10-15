@@ -34,9 +34,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 3.33 per team member for teams of 6, 4 per team member for teams of 5,  5 points per team member for teams of four.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions from [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/).
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions from [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/).
 
-New since [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/): 
+New since [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/): 
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points when you recorded the outcome of (one of) your Retro experiments in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
 
@@ -53,7 +53,7 @@ New since [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/):
 
 * Plan a five minute presentation video
 * Please prepare a 5 minute YouTube video (unlisted or public, your choice)
-  - See the bottom of the [lab02](https://ucsb-cs148.github.io/s21/lab/lab02/) description for information about creating your MVP video.
+  - See the bottom of the [lab02](https://ucsb-cs148.github.io/f21/lab/lab02/) description for information about creating your MVP video.
   - Links to videos will be made available to (some of) the class for peer review, but will not be made public
 * Present to an audience of **potential users**
   - Not to an audience of CS148 students, or the instructor or TAs.
