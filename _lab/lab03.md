@@ -44,7 +44,7 @@ New since [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/):
 
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if your team posted, or commented on already posted, articles or tutorials in at least one of the `..._articles` channels. You need at least 3 such interactions (posts or comments) to get full credit. 
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if your README.md is updated with complete installation instructions for your MVP and your MVP video link is announced in `team/MVP_DEMO.md`.  
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if the [team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) is updated with all the links to your repo information.  
 
 </div>
 
