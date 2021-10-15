@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2021-10-15 11:00
 due: 2020-10-22 23:59
@@ -48,11 +48,11 @@ New since [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/):
 
 </div>
 
-# Ten days to MVP. Please prepare: 
+# Ten days to MVP Code Freeze. Twelve to MVP video demos. Please prepare: 
 ## Planning your demo (MVP video)
 
-* Plan a five minute presentation video
-* Please prepare a 5 minute YouTube video (unlisted or public, your choice)
+* Plan an up-to-five minute presentation video
+* Please prepare a max. 5 minute YouTube video (unlisted or public, your choice)
   - See the bottom of the [lab02](https://ucsb-cs148.github.io/f21/lab/lab02/) description for information about creating your MVP video.
   - Links to videos will be made available to (some of) the class for peer review, but will not be made public
 * Present to an audience of **potential users**
