@@ -9,7 +9,7 @@ ready: true
 * h05 is (uncharacteristically!) due on Friday. We set the deadline to be 2pm, but will accept submissions until 11:59pm. h06 will be posted on Friday, and will be due the next Friday. 
  
 # Sprint Planning
-* [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning)    
+* [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning), can be combined with [Story Time](https://switchingtoscrum.wordpress.com/2012/11/28/what-are-story-time-meetings-for/)...
 
 # Continuous Integration / Continuous Delivery (CI/CD) 
 
