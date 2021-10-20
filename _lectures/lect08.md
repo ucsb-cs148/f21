@@ -1,22 +1,20 @@
 ---
-desc: "MVP Demos"
-lecture_date: 2021-10-27
-num: lect09
+desc: "Overview: Software Testing"
+lecture_date: 2021-10-25
+num: lect08
 ready: false
 ---
 
-# Announcements
-* Today: 
-  * MVP video demonstrations with peer eval 
-  * Voting for top three favorite MVPs
-  * Celebration of our progress
 
-* Upcoming: 
-  * Sprint Review and Planning Meeting 
-  * Second Retrospective (the MVP release is a great opportunity to review the next steps)
+# Slides 
+* [Overview of SW Testing](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_SWTesting.pdf)
+
+# Materials
+* [Overview of Javascript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870), and just in case you are over your free Medium articles quota: [PDF version](https://www.cs.ucsb.edu/~holl/CS148/handouts/JSTesting.pdf) 
+* [Python Testing Frameworks](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
 
 
-# MVP Tag/Release in your GitHub repo
+# MVP Tag/Release in your GitHub repo by the end of today! 
 By the end of today, 10/27/21, tag and release your MVP project in your github. 
 [This brief article](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e) gives some suggestions on versioning numbering.  
 
@@ -62,3 +60,8 @@ Your newly created tag should appear in your tags page on the web UI
 ## New Deliverable: Participate in the MVP review and review other groups' MVPs
 
 In class **on Wed, 10/29/21, 14:00**, we will watch the videos all the groups have created, and provide feedback in a simple Google Form. You will get points towards lab04 for submitting these forms. 
+
+# Work in Breakout Groups
+* Work towards MVP 
+* GitHub Release by the end of today! Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product. 
+* MVP Video by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in `<github>`/team/MVP_DEMO.md
