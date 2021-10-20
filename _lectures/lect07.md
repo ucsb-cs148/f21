@@ -13,7 +13,7 @@ ready: true
 
 # Final Presentations 
 
-**4pm to 7pm, Wednesday June 10th** (original finals slot)
+**4pm to 7pm, Monday December 6th** (original finals slot)
 
 Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
