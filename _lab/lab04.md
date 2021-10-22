@@ -58,7 +58,7 @@ At next week's Wednesday lecture [lect09](https://ucsb-cs148.github.io/f21/lectu
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if your team has a github tagged release of your MVP timestamped **before 10/25/21, 23:59:59 PDT** and a video link in team/ in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if your team has a github tagged release of your MVP timestamped **before 10/25/21, 23:59:59 PDT** and a video link in `team/MVP_DEMO.md` and in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
 
 **Graded**: ({{page.num}}-I) (25 pts) You earn these individual points if you participate in the MVP review during [lec09](https://ucsb-cs148.github.io/f21/lectures/lect09/)  and submit an evaluation form to briefly review all other groups' MVPs by **Wed, 10/27/2021, 23:59pm PDT**
 
