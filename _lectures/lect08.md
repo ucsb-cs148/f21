@@ -64,4 +64,4 @@ In class **on Wed, 10/29/21, 14:00**, we will watch the videos all the groups ha
 # Work in Breakout Groups
 * Work towards MVP 
 * GitHub Release by the end of today! Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product. 
-* MVP Video by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in `<github>`/team/MVP_DEMO.md
+* MVP Video by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in `<github>`/team/MVP_DEMO.md and enter it in [the tem links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!

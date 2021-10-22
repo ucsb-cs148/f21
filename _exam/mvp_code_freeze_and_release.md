@@ -14,4 +14,5 @@ Also, the Deployment Instructions linked from your README.md are filled in and w
 
 This is the version of your code that will be featured in your MVP videos, which will be reviewed in class on Wed, Oct. 27. 
 
-
+# MVP Video
+MVP Video is due by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in <github>/team/MVP_DEMO.md and enter it in [the tem links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
