@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab04
-ready: false
+ready: true
 desc: "MVP Release, MVP Review, Testing"
 assigned: 2021-10-22 11:00
 due: 2021-10-29 14:00
