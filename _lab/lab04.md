@@ -51,7 +51,7 @@ At next week's Wednesday lecture [lect09](https://ucsb-cs148.github.io/f21/lectu
 *  **by 10/25/21, 23:59 PDT** == Code Freeze Deadline (for details on the README format, see [lab03](https://ucsb-cs148.github.io/f21/lab/lab03/)) 
 
 ## Point us to your video 
-*  **by 10/26/21, 23:59 PDT** create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md  
+*  **by 10/26/21, 23:59 PDT** create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md. Also enter the link in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)
 
 
 # Lab04 New Deliverables
