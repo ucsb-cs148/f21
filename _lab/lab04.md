@@ -4,7 +4,7 @@ num: lab04
 ready: true
 desc: "MVP Release, MVP Review, Testing"
 assigned: 2021-10-22 11:00
-due: 2021-10-29 14:00
+due: 2021-10-29 23:59
 github_org: "ucsb-cs148-s21"
 ---
 
