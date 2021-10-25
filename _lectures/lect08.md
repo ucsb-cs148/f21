@@ -2,7 +2,7 @@
 desc: "Overview: Software Testing"
 lecture_date: 2021-10-25
 num: lect08
-ready: false
+ready: true
 ---
 
 
@@ -11,11 +11,12 @@ ready: false
 
 # Materials
 * [Overview of Javascript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870), and just in case you are over your free Medium articles quota: [PDF version](https://www.cs.ucsb.edu/~holl/CS148/handouts/JSTesting.pdf) 
+* [A Beginner's Guide to Unit-testing with Jest](https://dev.to/dsasse07/a-beginner-s-guide-to-unit-testing-with-jest-45cc) 
 * [Python Testing Frameworks](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
 
 
 # MVP Tag/Release in your GitHub repo by the end of today! 
-By the end of today, 10/27/21, tag and release your MVP project in your github. 
+By the end of today, 10/25/21, tag and release your MVP project in your github. 
 [This brief article](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e) gives some suggestions on versioning numbering.  
 
 ### To create a tag:
@@ -59,7 +60,7 @@ Your newly created tag should appear in your tags page on the web UI
 
 ## New Deliverable: Participate in the MVP review and review other groups' MVPs
 
-In class **on Wed, 10/29/21, 14:00**, we will watch the videos all the groups have created, and provide feedback in a simple Google Form. You will get points towards lab04 for submitting these forms. 
+In class **on Wed, 10/27/21, 14:00**, we will watch the videos all the groups have created, and provide feedback in a simple Google Form. You will get points towards lab04 for submitting these forms. 
 
 # Work in Breakout Groups
 * Work towards MVP 
