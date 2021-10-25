@@ -69,4 +69,4 @@ In class **on Wed, 10/27/21, 14:00**, we will watch the videos all the groups ha
 * Work towards MVP 
 * GitHub Release by the end of today! Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product. 
 * Please fill in a link to your deployment (or to your README deployment instructions if you don't maintain a live deployment) in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)
-* MVP Video by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in `<github>`/team/MVP_DEMO.md and enter it in [the tem links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
+* MVP Video by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in `<github>`/team/MVP_DEMO.md and enter it in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
