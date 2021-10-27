@@ -42,7 +42,7 @@ T05 - RecipeFinder
 &nbsp;
 
 * Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
-    * Please fill in this [review form](https://forms.gle/TBA) during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the recorded lecture and fill the form in before the end of [lab04](https://ucsb-cs148.github.io/f21/lab/lab04/). 
+    * Please fill in this [review form](https://forms.gle/VKVegPG1PvGUfkCd9) during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) and fill the form in before the end of [lab04](https://ucsb-cs148.github.io/f21/lab/lab04/). 
 
 <br />   
 * After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
