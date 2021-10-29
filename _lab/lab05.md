@@ -39,14 +39,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Today: Second Retrospective
 
-You already know the goal and procedure for Retrospectives from your RETRO_01. This Retrospective allows you to discuss things that 
+You already know the goal and procedure for Retrospectives from your RETRO_01. This Retrospective allows you to discuss things that emerged from the MVP effort and feedback you received.
 
-* We'll put you in breakout groups.
-* When you are finished, just leave.
-  * No need to come back to main room, unless you have questions
+* You'll do a quick standup and then the retro in team groups
+* When you are finished and still have time, discuss your teams strategy towards the testing requirement in this lab.   
 * Staff will be dropping in to observe.
 
-# Deliverable
+# Retro Deliverable
 
 * In your team's repo, under `team` directory
   `team/RETROS.md`
