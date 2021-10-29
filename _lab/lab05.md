@@ -99,16 +99,11 @@ Teams working with React could use the [React Testing Library](https://testing-l
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 11/05/21, 23:59 PDT**.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project. 
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team implemented and demonstrated successful execution of **at least one** component test **or** other integration **or** end-to-end test (e.g. BDD) in your project. 
 
+**Graded** (({{page.num}}-T) (20 pts) Document your testing approach in a new github team/TESTING.md document. List there at a minimum: 1) how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), 2) your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), 3) how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), 4) your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision.
 </div>
  
- # All Team members: Fill out peer eval survey (on email from CATME.org)
-
-<div class="grade" markdown="1">
-
- **Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you will get email invitations for. Deadline for submittting these is **Friday 11/05/21, 10:00pm PDT (midnight central time)**.
-
- </div>
+ 
