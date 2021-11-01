@@ -22,6 +22,7 @@ ready: true
 * Remember the overview articles: 
     * [Overview of Javascript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870), [PDF version](https://www.cs.ucsb.edu/~holl/CS148/handouts/JSTesting.pdf) 
     * [Python Testing Frameworks](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
+    * From current homework (h07): [The Testing Trophy](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 
 # Today: Work in Breakout Groups
 * Standup
