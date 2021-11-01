@@ -2,7 +2,7 @@
 desc: "MVP Demos"
 lecture_date: 2021-10-27
 num: lect09
-ready: false
+ready: true
 ---
 
 # Announcements
