@@ -2,9 +2,9 @@
 layout: lab
 num: lab06-part1
 ready: false
-desc: "Retro2 Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
-assigned: 2021-11-12 11:00
-due: 2021-11-19 23:59
+desc: "Retro Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
+assigned: 2021-11-05 11:00
+due: 2021-11-12 23:59
 github_org: "ucsb-cs148-f21"
 ---
 
@@ -26,7 +26,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 <div class="grade" markdown="1">
-**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have logged the result of your Retro 2 Experiment
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have logged the result of your Retro 2 Experiments (and also for Retro 1 if you never did that).
 
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
 
