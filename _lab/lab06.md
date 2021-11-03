@@ -2,7 +2,7 @@
 layout: lab
 num: lab06-part1
 ready: false
-desc: "Retro Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
+desc: "Retro Outcome Logging / Review and Plan Leadership Roles / Second CATME.org Peer Eval / Start Design Document "
 assigned: 2021-11-05 11:00
 due: 2021-11-12 23:59
 github_org: "ucsb-cs148-f21"
@@ -26,11 +26,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 <div class="grade" markdown="1">
-**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have logged the result of your Retro 2 Experiments (and also for Retro 1 if you never did that).
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if you have logged the result of your Retro 2 Experiments (and also for Retro 1 if you never did that).
 
-**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
 
-**Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at the very least an overview system architecture diagram and associated explanation.  
+**Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you will get email invitations for. Deadline for submittting these is **Wednesday 11/10/21, 10:00pm PDT (midnight in central time)**.
+
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at the very least an overview system architecture diagram and associated explanation.  
 </div>
 
 
@@ -97,6 +99,8 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
 * **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation video during week 9/10. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
   
 
+# Second CATME.org Peer Eval
+All Team members: Fill out peer eval survey (on email from CATME.org) by **Wednesday 11/10/21, 10:00pm PDT (midnight in central time)**
 
 # Start Design Document
 Start a Design Document (as a Google Doc or another `living document` format of your choice) and link to it in a new ./docs/DESIGN.md file in your GitHub. 
