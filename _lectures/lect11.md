@@ -1,5 +1,5 @@
 ---
-desc: "Documentation Efforts, Testing Coverage, SW Hierarchy of Needs"
+desc: "Documentation Efforts, Testing Coverage, System Architecture"
 lecture_date: 2021-11-03
 num: lect11
 ready: true
@@ -20,14 +20,13 @@ ready: true
 * Lab06: Start Design Document (including a high-level system diagram), Deployment and Operations Document (from README), Review of Leadership Roles, Log Retrospective 2 experiment outcome, second CATME peer eval 
 
 # One More Concept on Testing
-* Testing Coverage: **execution coverage** vs. actual **test coverage**
+* Testing Coverage: **code coverage** vs. **execution/path coverage** vs. **test coverage**
+* [Code vs. execution/test coverage: a kid's toy example by the Lead of SW Testing at eBay](https://danashby.co.uk/2019/02/14/code-coverage-vs-test-coverage/)
+* [Code vs. test coverage](https://www.testbytes.net/blog/code-coverage-vs-test-coverage/)
 
 # Planning and Documenting your Design
 * System Architecture High-Level Overview Diagrams. See, e.g. Requirement Documents in [UCSB Capstone projects](https://capstone.cs.ucsb.edu/past20.html)   
 * Diagramming Tools:  Powerpoint or Visio, Google Slides, LibreOffice (Impress, Draw), [Gliffy](https://www.gliffy.com/), [graphviz](https://graphviz.org)
-
-# UI Design 
-* [Hierarchy of Needs](https://www.cs.ucsb.edu/~holl/CS148/handouts/HierarchyOfNeeds.pdf)
 
 # Today: Work in Breakout Groups
 * Standup
