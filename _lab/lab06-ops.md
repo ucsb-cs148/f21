@@ -3,7 +3,7 @@ layout: lab
 num: lab06-part2-ops
 ready: false
 desc: "Deployment Instructions"
-assigned: 2021-11-12 11:00
+assigned: 2021-11-05 11:00
 due: 2021-11-19 23:59
 github_org: "ucsb-cs148-f21"
 ---
@@ -79,7 +79,7 @@ There should be a link to `./docs/DEPLOY.md` from your main `README.md` file of 
 * [Deployment Instructions](./docs/DEPLOY.md)
 ```
 
-This replaces the `Installation Steps` Section you previously wrote in the README.MD file as per [lab03](https://ucsb-cs148.github.io/s21/lab/lab04/) instructions. 
+This replaces the `Installation Steps` Section you previously wrote in the README.MD file as per [lab04](https://ucsb-cs148.github.io/f21/lab/lab04/) instructions. 
 
 ## Part Two: Deployment Video (OPTIONAL)
 
