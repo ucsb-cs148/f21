@@ -43,7 +43,7 @@ Operations refers to the things other than your code that are necessary to deplo
 
 Each of your production and QA applications has some "operations" that are necessary to get it deployed on Heroku.
 
-This part of the assignment is divided across two labs, this one, and [lab08](https://ucsb-cs148.github.io/f21/lab/lab08/). 
+This part of the assignment prepares an activity during [lab08](https://ucsb-cs148.github.io/f21/lab/lab08/). 
 
 * In this lab, you'll prepare written deployment instructions and a video with deployment instructions.
 * In [lab08](https://ucsb-cs148.github.io/f21/lab/lab08/), your team and another team in your section will swap instructions/videos, try them out, and provide feedback, both on the deploy instructions, and on the apps themselves.
