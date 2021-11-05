@@ -4,7 +4,7 @@ num: lab03
 ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2021-10-15 11:00
-due: 2020-10-22 23:59
+due: 2021-10-22 23:59
 github_org: "ucsb-cs148-f21"
 ---
 
