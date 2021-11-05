@@ -6,4 +6,4 @@ ready: true
 ---
 
 # Announcements
-No class today. Happy Thanksgiving! 
+No required class today. The class room is open to groups / partial groups that want to meet there. Happy Thanksgiving! 
