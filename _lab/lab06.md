@@ -127,4 +127,4 @@ Or on Mac/IOS:
 
 # Part II: Deployment Manual
 
-There is a [second part](https://ucsb-cs148.github.io/s21/lab/lab06-ops/) to this lab, which has a two-week performance period. 
+There is a [second part](https://ucsb-cs148.github.io/f21/lab/lab06-ops/) to this lab, which has a two-week performance period. 
