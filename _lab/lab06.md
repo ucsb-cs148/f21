@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab06-part1
-ready: false
+ready: true
 desc: "Retro Outcome Logging / Review and Plan Leadership Roles / Second CATME.org Peer Eval / Start Design Document "
 assigned: 2021-11-05 11:00
 due: 2021-11-12 23:59
