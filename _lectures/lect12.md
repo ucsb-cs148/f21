@@ -40,7 +40,7 @@ Here, again, is the point percentage breakdown for grading that the teaching tea
 * [8 Golden Rules of UI Design](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UIPrinciples.pdf) 
 * Update to Google's Design Philosophy, Material Design: [Material You](https://material.io/blog/announcing-material-you), [Summary](https://www.engadget.com/google-material-you-android-personalized-redesign-182501466.html), [an opinion in favor of it](https://www.androidpolice.com/everything-i-love-about-material-you/), [an opinion in opposition to it](https://www.androidpolice.com/everything-i-hate-about-material-you/)
 
-* Tools for Wireframing: Adobe XD, Figma, Wireframe.cc, (On Mac:) Sketch (sketch.com)
+* Tools for Wireframing: Adobe XD, Figma, Wireframe.cc, (On Mac:) sketch.com
 
 # Today: Work in Breakout Groups
 * Standup
