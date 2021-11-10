@@ -2,11 +2,11 @@
 desc: "SW Design Patterns"
 lecture_date: 2021-11-10
 num: lect13
-ready: false
+ready: true
 ---
 
 # Announcements
-* [Homework assignment h08](https://ucsb-cs148.github.io/s21/hwk/h08/) on SW Design Patterns posted. Due next Monday. There is **no** requirement for using/documenting SW patterns in your design documentation! 
+* [Homework assignment h08](https://ucsb-cs148.github.io/f21/hwk/h08/) on SW Design Patterns posted. Due next Monday. There is **no** requirement for using/documenting SW patterns in your design documentation! 
 
 * Still **focus on your projects**. Lab work on documentation (**design document**, **user manual**) is meant to get you started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
 
