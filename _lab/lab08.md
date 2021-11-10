@@ -161,6 +161,6 @@ Review Complete
 
 Then notify the team whose deploy instructions and app you were reviewing, via Slack, that your review is complete.
 
-# One Week to Code Freeze 
+# Two Weeks to Code Freeze 
 
 For the rest of this lab week, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. No lab points are assigned to this portion of the work, but clearly, the work that you will put in will pay off in the final evaluations of your product and documentation! 
