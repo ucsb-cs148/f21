@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab07
-ready: false
+ready: true
 desc: "User Flow, Start Manual, Continue Design Document, Retro 3"
 assigned: 2021-11-12 11:00
 due: 2021-11-19 11:59
@@ -27,9 +27,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you a) expanded the Design Document by summarizing important team decisions referring to meetings logged in your GitHub repo, and b) created a new Section in your Design Document talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (see next bullet).
+**Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you a) expanded the Design Document by summarizing important team decisions referring to meetings logged in your GitHub repo, and b) created a new Section in your Design Document talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (see next bullet).
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
+**Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective on Wed, 11/17 (or whenever your team opts to hold it); 3.34 per team member for teams of 6, 4 per team member for teams of five, 5 points per team member for teams of four.
 
