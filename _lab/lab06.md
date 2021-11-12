@@ -96,7 +96,7 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
       By next week (lab07), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
 * **User Manual Coordinator**.  This person is responsible for the user manual part of the documentation. More detail will be given in lab07, and the person in charge will be responsible for updating it
       throughout the rest of the quarter.
-* **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation ~~video~~ during week 9/10. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
+* **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation ~~video~~ on 12/06. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
   
 
 # Second CATME.org Peer Eval
