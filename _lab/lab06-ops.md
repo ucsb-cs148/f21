@@ -4,7 +4,7 @@ num: lab06-part2-ops
 ready: true
 desc: "Deployment Instructions"
 assigned: 2021-11-05 11:01
-due: 2021-11-19 23:59
+due: 2021-11-19 11:00
 github_org: "ucsb-cs148-f21"
 ---
 
