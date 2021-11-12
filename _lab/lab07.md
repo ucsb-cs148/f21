@@ -103,4 +103,4 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
 
 # Carry-over from Lab06: Deployment Manual
 
-Remember that there also was a [second part](https://ucsb-cs148.github.io/f21/lab/lab06-ops/) to lab06, which needs to be completed by next Friday, 11/19, 11:59pm!  
+Remember that there also was a [second part](https://ucsb-cs148.github.io/f21/lab/lab06-ops/) to lab06, which needs to be completed by next Friday, 11/19, BEFORE your section start 11:00am, or 12:00pm!  
