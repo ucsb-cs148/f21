@@ -84,8 +84,6 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
   ```
 
 * After the Retro
-
-  All Team members: Fill out peer eval survey (on email from CATME.org)
   
   Retro leader: add the following Section to `RETRO_03.md`:
   
