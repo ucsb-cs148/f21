@@ -6,7 +6,7 @@ ready: false
 ---
 
 # Announcements
-* As announced repeatedly, this week's lab will be taken up by the **group peer-evaluation** [lab08](https://ucsb-cs148.github.io/f21/lab/lab08/), so make sure to finish all points for lab06 (part2) before Section starts, and for lab07 before the end of tthe day, Friday. 
+* As announced repeatedly, this week's lab will be taken up by the **group peer-evaluation** [lab08](https://ucsb-cs148.github.io/f21/lab/lab08/), so make sure to finish all points for lab06 (part2) before Section starts, and for lab07 before the end of the day, Friday. 
 * **Code Freeze** for your projects will be two weeks later, **Friday, Dec. 3rd, with Thanksgiving break in between, next week, Friday, 11/26**!
 * Project presentations will take place, as long announced and planned, during the final exam slot, **Dec. 6th, 4-7pm**.
 * All documentation and the presentation video will be due at the end of **Wednesday, December 8th**. 
