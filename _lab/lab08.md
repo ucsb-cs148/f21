@@ -52,17 +52,17 @@ The following table lists the review pairings for all teams:
 
 | Your Team  | will review team | and will be reviewed by team |
 |---|---|---|
-| t1-  | t3-  | t2-  |
-| t2-	  | t1-  | t3-  |
-| t3-	 | t2-  |  t1- |
-| t5- | t8-  | t7- |
-| t7-  | t5-  |  t8- |
-| t8-	  | t7-  |  t5- |
-| t4-  | t6-  | t11-  |
-| t6-  | t9-  | t4-  |
-| t9-  | t10-  | t6-  |
-| t10-  | t11-  | t9-  |
-| t11-  | t4-  | t10-  |
+| t01-11am-sbrideshare  | t03-11am-fitnessguru  | t02-11am-clubrush  |
+| t02-11am-clubrush	  | t01-11am-sbrideshare  | t03-11am-fitnessguru  |
+| t03-11am-fitnessguru	 | t02-11am-clubrush  |  t01-11am-sbrideshare |
+| t05-11am-recipefinder | t08-11am-servedup  | t07-11am-musictaste |
+| t07-11am-musictaste  | t05-11am-recipefinder  |  t08-11am-servedup |
+| t08-11am-servedup	  | t07-11am-musictaste  |  t05-11am-recipefinder |
+| t04-12pm-youtubevoice  | t06-12pm-campusmaps  | t11-12pm-typingtest  |
+| t06-12pm-campusmaps  | t09-12pm-studygroup  | t04-12pm-youtubevoice  |
+| t09-12pm-studygroup  | t10-12pm-animelist  | t06-12pm-campusmaps  |
+| t10-12pm-animelist  | t11-12pm-typingtest  | t09-12pm-studygroup  |
+| t11-12pm-typingtest  | t04-12pm-youtubevoice  | t10-12pm-animelist  |
 
 # Step 1: Prepare FEEDBACK Repo and grant access to your reviewers
 
@@ -163,4 +163,5 @@ Then notify the team whose deploy instructions and app you were reviewing, via S
 
 # Two Weeks to Code Freeze 
 
-For the rest of this lab week, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. No lab points are assigned to this portion of the work, but clearly, the work that you will put in will pay off in the final evaluations of your product and documentation! 
+For the rest of this lab week, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. 
+The work that you will put in will pay off in the final evaluations of your product and documentation! 
