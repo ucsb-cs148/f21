@@ -156,3 +156,5 @@ Then notify the team whose deploy instructions and app you were reviewing, via S
 
 Over the next two weeks, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. 
 The work that you will put in will pay off in the final evaluations of your product and documentation! 
+
+There will be one more Lab (lab09), but it will officially start after the Thanksgiving holiday, on Monday, 11/29. It will be discussed in class next week, however. 
