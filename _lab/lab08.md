@@ -71,13 +71,19 @@ The document should start as follows:
 
 ```
    **Deployment and Product Feedback for Team <your team name>**
+   <link to your repo>
 
    (Review in progress--leave this line here until review is final)
 ```
 
 Please list the link to that document in your team folder as team/DEPLOY_FEEDBACK.md and, as the first action item of today's lab section, communicate that link to the reviewing team. 
 
-Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1Fbgnn-mS1Dm7-1M0k3-fMMAEFtWNSMeTqeH5dFIXLTY/edit?usp=sharing) and you can Slack DM with them to coordinate. 
+Next, obtain read access to the other team's repo for each person on your team that is participating in a review. 
+Grant access to your team's repo to each person on the reviewing team that is participating. 
+
+To grant access you'll need the github id's of the folks from the other team (which you should communicate via Slack.)  
+
+Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1Fbgnn-mS1Dm7-1M0k3-fMMAEFtWNSMeTqeH5dFIXLTY/edit?usp=sharing) and you can Slack DM with them to coordinate. You can of course also additionally walk over to the other team (Seating chart [here](https://ucsb-cs148.github.io/f21/lab/lab01/)) and coordinate in person. 
 
 
 # Step 2: Create Stub for your Feedback
