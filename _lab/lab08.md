@@ -77,7 +77,7 @@ The document should start as follows:
 
 Please list the link to that document in your team folder as team/DEPLOY_FEEDBACK.md and, as the first action item of today's lab section, communicate that link to the reviewing team. 
 
-Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1rGk06L3xZ08sWqDN3o_FKx8b-mQrxYGO_mrf6XcW0vA/edit?usp=sharing) and you can Slack DM with them to coordinate. 
+Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1Fbgnn-mS1Dm7-1M0k3-fMMAEFtWNSMeTqeH5dFIXLTY/edit?usp=sharing) and you can Slack DM with them to coordinate. 
 
 
 # Step 2: Create Stub for your Feedback
