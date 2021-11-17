@@ -27,12 +27,12 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (30 pts) Team has provided access to its own repo and `-DEPLOY-FEEDBACK` repo to members of the other team in timely fashion.
+**Graded**: ({{page.num}}-T) (30 pts) Team has provided access to its own repo and Feedback Google Doc to members of the other team in timely fashion.
 
-**Graded**: ({{page.num}}-T) (70 pts) Team members worked together to complete the review of the other team's products, according to instructions, by the deadline for this assignment.
+**Graded**: ({{page.num}}-T) (70 pts) Team members worked together to complete the review of the other team's products, according to instructions, by noon on Monday, 11/22.
 
-Note: "In a timely fashion" in the items above means "during the lecture or section in which this assignment is made, or within a few hours afterwards"; this is based
-on the fact that time will be given during class to complete these tasks.
+Note: "In a timely fashion" in the items above means "during the Section in which this assignment is made, allowing the revieewing team to put Section time fully towards the evaluation"; this is based
+on the fact that time will be given during Section to complete these tasks.
 
 </div>
 
@@ -44,7 +44,7 @@ described how to start with only your team's source code repo, and finish with a
 up and running on supported platform(s).
 
 In this lab:
-* The 4-5 people on your team will work together to try out the written instructions (and potentially videos) of the other team you got assigned from your discussion section, and provide feedback to them.
+* The 4-6 people on your team will work together to each try out the written instructions (and potentially videos) of the other team you got assigned from your discussion section, and provide feedback to them.
 * Each team will also test the current state of the deployed product. NOTE: the performance of your product today has absolutely no grade consequences. It is merely a chance for constructive feedback that you can take into account in your week towards code freeze!  
 * In return, you'll be receiving feedback from one of the other teams in your discussion section on your own deployment instructions and product.
 
@@ -64,39 +64,30 @@ The following table lists the review pairings for all teams:
 | t10-12pm-animelist  | t11-12pm-typingtest  | t09-12pm-studygroup  |
 | t11-12pm-typingtest  | t04-12pm-youtubevoice  | t10-12pm-animelist  |
 
-# Step 1: Prepare FEEDBACK Repo and grant access to your reviewers
+# Step 1: Set up FEEDBACK Document and grant access to your reviewers
 
-As a team, you will be preparing a new private Github Repo in which the team that evaluates your work will collect their feedback for you. 
-This repo should have the name of your main team repo, followed by `DEPLOY_FEEDBACK`.
+As a team, you will create a Google Doc to capture the feedback from the team that is reviewing your product. 
+The document should start as follows: 
 
-For instance:
+```
+   **Deployment and Product Feedback for Team <your team name>**
 
-* t3-11am-course-recommender-DEPLOY-FEEDBACK
-* t5-12pm-we-connect-DEPLOY-FEEDBACK
-* etc.  
+   (Review in progress--leave this line here until review is final)
+```
 
-This new repo is private.   You will need to:
-* grant write access to your team's `-DEPLOY-FEEDBACK` repo to all members from the other team in your section that is reviewing your repo
-* obtain write access to the other team's repos for each person on your team that is participating in a review
-
-Here is a [table with the slack display names of all team members](https://docs.google.com/spreadsheets/d/1BnGP-2nbP-HI3eNsd3Nc8gkpL8mAMNjratRvxIAI-gs/edit?usp=sharing).
-
-To grant access you'll need the github id's of the folks from the other team (which you can obtain
-using the `/whois @ScreenName` command on the course Slack.)   
+Please list the link to that document in your team folder as team/DEPLOY_FEEDBACK.md and, as the first action item of today's lab section, communicate that link to the reviewing team. 
 
 Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1rGk06L3xZ08sWqDN3o_FKx8b-mQrxYGO_mrf6XcW0vA/edit?usp=sharing) and you can Slack DM with them to coordinate. 
 
-To grant access, you visit the `Settings` Page of the repo, then `Manage Access` (url is `/settings/access`).
 
 # Step 2: Create Stub for your Feedback
 
-To make these instructions concrete: 
-* assuming you are Chris from team `1pm-t1-ride-share`
+To make these instructions concrete. Assuming: 
+* you are Chris from team `1pm-t1-ride-share`
 * you have been assigned to provide deploy feedback for team `1pm-t3-restaurant-reviews`.
 
-1. Go to the `-DEPLOY-FEEDBACK` repo for the team you are supposed to provide feedback for (e.g. `1pm-t3-restaurant-reviews-DEPLOY-FEEDBACK`)
-2. Create a file with the name of your own team and name (e.g. `1pm-t1-ride-share-chris.md`) in the root of the repo.  You can just do this directly in the web ui on the master branch.
-3. In this file, put the following template (substituting in your name and team name):
+1. Go to the Google Doc for the team you are supposed to provide feedback for (`1pm-t3-restaurant-reviews`), the link should have been communicated to you via Slack. If NOT, please prod the team for it! 
+2. In this file, put the following template (substituting in your name and team name):
 
    ```
    # Feedback from team 1pm-t1-ride-share.md
@@ -163,5 +154,5 @@ Then notify the team whose deploy instructions and app you were reviewing, via S
 
 # Two Weeks to Code Freeze 
 
-For the rest of this lab week, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. 
+Over the next two weeks, your team will work towards the code freeze deadline, Fri., 12/03/21, 11:59. 
 The work that you will put in will pay off in the final evaluations of your product and documentation! 
