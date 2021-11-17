@@ -1,6 +1,6 @@
 ---
 name: Alan Roddick
-role: TA
+role: Teaching Assistant
 img: alan.jpg
 img100w: alan_100w.jpg
 bio: >
