@@ -32,12 +32,24 @@ You will likely not have time to conduct your own independent end user evaluatio
 
 * [Slides on User Evaluation](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UserEvaluation21.pdf)
 
-# Today: Designate a reviewer and reviewee contact for your team
+# Today: Designate a reviewer and reviewee contact for your team. Create a Review Placeholder.
 
 Please list the names and Slack display names (separated by comma) of contact persons from your team in [this table](https://docs.google.com/spreadsheets/d/1Fbgnn-mS1Dm7-1M0k3-fMMAEFtWNSMeTqeH5dFIXLTY/edit?usp=sharing):		
 * **reviewer contact**:	will coordinate the reviewing (working with the reviewee contact from the team you are peer-reviewing)
 * **reviewee contact**:	will be the contact person to work with the reviewer contact from the team that is peer-reviewing your team
-The rest of your team will be 100% focused on deploying and evaluating the software of the team you are evaluating, and the two designated contacts will help that effort whenever they don't have anything to coordinate in their role.  
+The rest of your team will be 100% focused on deploying and evaluating the software of the team you are evaluating, and the two designated contacts will help that effort whenever they don't have anything to coordinate in their role. 
+
+As a team, create a Google Doc to capture the feedback from the team that is reviewing your product. 
+The document should start as follows: 
+
+```
+   **Deployment and Product Feedback for Team <your team name>**
+   <link to your repo>
+
+   (Review in progress--leave this line here until review is final)
+```
+
+Please list the link to that document in your team folder as team/DEPLOY_FEEDBACK.md and, as the first action item of Friday's lab section, communicate that link to the reviewing team. 
 
 # Today (or at your schedule): Third and Last Retrospective
 
