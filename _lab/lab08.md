@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab08
-ready: false
+ready: true
 desc: "Group Peer Eval, Two weeks to Code Freeze (but Thanksgiving in between)"
 assigned: 2021-11-19 11:00
 due: 2021-11-22 12:00
