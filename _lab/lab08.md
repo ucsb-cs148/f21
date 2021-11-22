@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab08
-ready: false
+ready: true
 desc: "Group Peer Eval, Two weeks to Code Freeze (but Thanksgiving in between)"
 assigned: 2021-11-19 11:00
 due: 2021-11-22 12:00
@@ -89,14 +89,14 @@ Please communicate with the other team through Slack. Contact persons for each t
 # Step 2: Create Stub for your Feedback
 
 To make these instructions concrete. Assuming: 
-* you are Chris from team `1pm-t1-ride-share`
-* you have been assigned to provide deploy feedback for team `1pm-t3-restaurant-reviews`.
+* you are Chris from team `t01-11am-sbrideshare`
+* you have been assigned to provide deploy feedback for team `t03-11am-fitnessguru`.
 
-1. Go to the Google Doc for the team you are supposed to provide feedback for (`1pm-t3-restaurant-reviews`), the link should have been communicated to you via Slack. If NOT, please prod the team for it! 
+1. Go to the Google Doc for the team you are supposed to provide feedback for (`t03-11am-fitnessguru`), the link should have been communicated to you via Slack. If NOT, please prod the team for it! 
 2. In this file, put the following template (substituting in your name and team name):
 
    ```
-   # Feedback from team 1pm-t1-ride-share.md
+   # Feedback from team t01-11am-sbrideshare.md
 
    Review by Chris
    
@@ -110,9 +110,9 @@ To make these instructions concrete. Assuming:
 
 Each of you should then try deploying the app from the other team assigned to you.  
 
-If there are naming possibilities for deployments (e.g. Heroku apps), call your app: `cs148-s21-t1-chris-tries-t3, where:
-* `t1-chris` is your team's number and your name (which comes before `-tries-`)
-* `t3` is the team number of the code your are trying out (which comes after `-tries-`)
+If there are naming possibilities for deployments (e.g. Heroku apps), call your app: `cs148-f21-t01-chris-tries-t03, where:
+* `t01-chris` is your team's number and your name (which comes before `-tries-`)
+* `t03` is the team number of the code your are trying out (which comes after `-tries-`)
 
 You may need to create Auth0 or Google credentials, MongoDB credentials, other API credentials, etc. Ideally, the creation of those will be sufficiently described in your deployment instructions, but for the purpose of successfully completing this peer review, feel free to share throwaway credentials with the reviewing team!   
 
