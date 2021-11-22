@@ -7,6 +7,8 @@ ready: true
 
 # Announcements
 * Full focus on finalizing your product! 
+* Review and make use of the Team Peer Eval Deployment Feeback you got!
+
 * [Lab09](https://ucsb-cs148.github.io/f21/lab/lab09/) starts today, has deadlines on **Monday Nov 29** (CATME survey), **Friday, 12/04** (Final Code Release), and **Wednesday, 12/08** (Documentation of Team Roles and Github Contributions, a "Lessons Learned" post, Audience Choice Award voting).
 
 
