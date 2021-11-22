@@ -44,7 +44,7 @@ The following graded items will be due on **Wed, 12/08, 23:59:59**:
 
 # All Team members: Fill out third and final CATME.org peer eval survey (by **Mon, 11/29, 10pm**)
 
-You earn 25 individuual points for submitting feedback on your team mates' and overall team performance via a third and last CATME.org form survey that you got email invitations for. Deadline for submittting these is **Monday 11/29/21, 10:00pm PST (midnight central time)**.
+You earn 25 individual points for submitting feedback on your team mates' and overall team performance via a third and last CATME.org form survey that you got email invitations for. Deadline for submittting these is **Monday 11/29/21, 10:00pm PST (midnight central time)**.
 
 
 # Final Code Release and Deployment
