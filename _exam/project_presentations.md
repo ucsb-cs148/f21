@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Final Presentations"
 exam_date: 2021-12-06 16:00
 ---
@@ -27,16 +27,15 @@ Here is the point percentage breakdown for grading that the teaching team plans 
 
 We will cross-reference against a ranking obtained from an overall quartiling judgment averaged among the evaluators.
 
-Each group will have up to 10 minutes for a prepared presentation video submitted two days prior.
+Each group will have up to 10 minutes for a prepared presentation.
 
-This will be followed by 10 minutes of live exploration of the app
-by the teaching team, plus questions. Each member of the group should be
+This will be followed by up-to 5 minutes of live exploration of the app
+by the teaching team, including questions. Each member of the group should be
 available for the question session.
 
-The ten minute video presentation should include a demo (functionality, similar to what was done in the MVP video), as well as a discussion of
-technical matters.
+The ten minute presentation should include a demo (functionality, similar in style to what was done in the MVP video), as well as some discussion of technical matters and design process.
 
-**Technical matters to cover:**
+**Example technical matters to cover:**
 * Authorization and Authentication (if applicable)
 * Database technologies used (if applicable)
 * External APIs or libraries used (if applicable)
@@ -45,11 +44,7 @@ technical matters.
 
 
 **Additional Notes:**
-* Video presentation and live Q&A for all projects will be in a Zoom session to which the entire class is invited.
-* While the entire class is invited to watch the entire session, you are only
-  responsible for attending the portion when your team is presenting.
-* Presentations will be recorded.  The recording will only be viewed
-  by course staff for purposes of evaluation.
+* Presentation and live Q&A for all projects will be recorded for later re-review by the teaching team. The recording will only be viewed by course staff for purposes of evaluation.
 
 The final presentation will be part of a holistic review of the team's
 final product, including the presentation, as well as the team's production
