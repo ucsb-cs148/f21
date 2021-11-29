@@ -18,6 +18,7 @@ ready: true
 * Project presentations will take place, as long announced and planned, during the final exam slot, **Monday, December 6th, 4-7pm**.
 * All documentation will be due at the end of **Wednesday, December 8th**. 
 
+
 Here, again, is the class grading scheme including the agreed-upon point percentage breakdown for grading the “Final Product” 40% of the course grade:
 
 * 25% Homeworks (drop lowest three)
@@ -39,19 +40,6 @@ Final Project Grading Dimensions:
     * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
 
-# Briefly: Some Lessons Learned
-
-In our teaching team meetings, the staff share some of the lessons learned. We ask you to think of some as well, so that we will have some collective wisdom for future iterations of this class. 
-A few examples to stir your imagination: 
-
-* During a rebase, *just rebase*.  Don't make changes (i.e. fix bugs, add features) during a rebase.  Only focus on 
-  fixing merge conflicts.    Make your changes to fix bugs or add features before the rebase, or after the rebase,
-  but *not during*.
-  
-* Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the team's effectiveness and success. 
-  
-Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons_learned` channel in Slack!   
-
 
 # ESCIs (Course Evaluations)
 
@@ -63,6 +51,12 @@ A project-oriented course such as CS148 emphasizes learning by doing and the exp
 
 Thank you all for taking the time (especially after so many peer eval questionnaires! :))  
 
+# Lessons Learned
+  
+Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons_learned` channel in Slack!   
+
+# Ethics
+* Slides on the [Ethics of Software/Technology Development](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_Ethics21.pdf) 
 
 # Today: Work Towards Lab09 and Code Freeze: 
 
