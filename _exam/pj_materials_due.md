@@ -2,7 +2,7 @@
 layout: exam_info
 num: project
 ready: true
-desc: "Design Document & Manual Due"
+desc: "Project Materials Due"
 exam_date: 2021-12-08 23:59
 ---
 
