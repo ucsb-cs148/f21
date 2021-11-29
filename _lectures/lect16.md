@@ -4,7 +4,7 @@ lecture_date: 2021-11-22
 num: lect16
 ready: true
 ---
-
+ 
 # Announcements
 * Full focus on finalizing your product! 
 * Review and make use of the Team Peer Eval Deployment Feeback you got!
@@ -16,8 +16,7 @@ ready: true
 
 * **Code Freeze** for your projects will be end of the day this Friday: **Friday, December 4th**!
 * Project presentations will take place, as long announced and planned, during the final exam slot, **Monday, December 6th, 4-7pm**.
-* All documentation and the presentation video will be due at the end of **Wednesday, December 8th**. 
-
+* All documentation will be due at the end of **Wednesday, December 8th**. 
 
 Here, again, is the class grading scheme including the agreed-upon point percentage breakdown for grading the “Final Product” 40% of the course grade:
 
