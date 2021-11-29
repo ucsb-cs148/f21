@@ -41,7 +41,16 @@ Final Project Grading Dimensions:
 
 # ESCIs (Course Evaluations)
 
-The ESCI course evaluation system is open NOW until **Friday, December 03, 23:59:59**. 
+The ESCI course evaluation system will be due on **Friday, December 03, 23:59:59**
+
+Response rate as of 12:00pm 11/29/2021:
+
+| Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
+|-|-|-|-|
+| CMPSC 148 	| 54	| 6 |	11.11% |
+{:.table .table-sm .table-striped .table-bordered}
+ 
+So please fill in your evaluations!
 
 You are likely getting reminders from the automated system about course evaluations (ESCIs). I would like to also ask you to please enter your feedback about the course.  It is very important for the university to evaluate the quality of the instructor's teaching (Question A) and the overall quality of the course (Question B).
 
