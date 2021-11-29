@@ -1,7 +1,7 @@
 ---
 desc: "Team Work!"
 lecture_date: 2021-11-24
-num: lect15b - no class
+num: lect15 No Class
 ready: true
 ---
 
