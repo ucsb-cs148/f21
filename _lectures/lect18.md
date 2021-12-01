@@ -33,8 +33,10 @@ ready: true
     * Documentation of Team Roles and Github Contributions (part of Lab09 requirements, also due Wed, 12/08): brief summary of individual team member contributions in `team/contributions/CONTRIBS.md` to provide context to our inspection of your Kanban boards and GitHub activity.
 
     * Full finalized deployment instructions `docs/DEPLOY.md` within your repo (also due Wed, 12/08)
-      
-
+       
+          
+           
+           
 
 * For our grading criteria, please see the [page on your final presentations](https://ucsb-cs148.github.io/f21/exam/project_presentations/)!
 
