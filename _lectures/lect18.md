@@ -14,8 +14,9 @@ ready: true
     * **Friday, 12/04** (Code Freeze, Final Code Release)
     * **Monday, December 6th, 4-7pm**: Project presentations (10 minutes per team plus up-to-5-minute probing & Q&A)
     * **Wednesday, 12/08** (Documentation of Team Roles and Github Contributions, a "Lessons Learned" post, Audience Choice Award voting). Also: all final project documents are due at this time! 
-      
 
+   
+   
 
 * Quick summary of the purpose/scope of the different documents: 
     * Design Document (final version due Wed, 12/08): You started this document with your overall software diagram during Lab06. During Lab07, you expanded it. We had recommended the following Sections then: 
