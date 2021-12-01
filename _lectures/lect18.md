@@ -25,7 +25,7 @@ ready: true
         * User Interface and User Experience (UX) considerations. Your high-level task/user flow from Lab07 might be the first thing to document here. Document iterations/testing as you see fit. 
          
 
-    Overall, this document guides a Developer or Teaching Team Member through your decisions and process for arriving at your final product. 
+        Overall, this document guides a Developer or Teaching Team Member through your decisions and process for arriving at your final product. 
     
     * Manual (final version due Wed, 12/08): User Manual, oriented towards end user, not developer, not instructor. Via screen shots and explanatory text explains the functionality of the product and provides a "how-to" instruction manual. Format: PDF or Google Doc. You can (but don't have to) link to videos. You started this document during Lab07.  
 
