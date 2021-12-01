@@ -14,6 +14,8 @@ ready: true
     * **Friday, 12/04** (Code Freeze, Final Code Release)
     * **Monday, December 6th, 4-7pm**: Project presentations (10 minutes per team plus up-to-5-minute probing & Q&A)
     * **Wednesday, 12/08** (Documentation of Team Roles and Github Contributions, a "Lessons Learned" post, Audience Choice Award voting). Also: all final project documents are due at this time! 
+      
+
 
 * Quick summary of the purpose/scope of the different documents: 
     * Design Document (final version due Wed, 12/08): You started this document with your overall software diagram during Lab06. During Lab07, you expanded it. We had recommended the following Sections then: 
@@ -21,6 +23,8 @@ ready: true
         * More Detailed SW Architecture Design: Describe the main modules in your SW Design in more detail
         * Design Process Documentation Section: Document your design process by summarizing important team decisions referring to specific meetings logged in your GitHub repo.
         * User Interface and User Experience (UX) considerations. Your high-level task/user flow from Lab07 might be the first thing to document here. Document iterations/testing as you see fit. 
+         
+
     Overall, this document guides a Developer or Teaching Team Member through your decisions and process for arriving at your final product. 
     
     * Manual (final version due Wed, 12/08): User Manual, oriented towards end user, not developer, not instructor. Via screen shots and explanatory text explains the functionality of the product and provides a "how-to" instruction manual. Format: PDF or Google Doc. You can (but don't have to) link to videos. You started this document during Lab07.  
@@ -28,6 +32,8 @@ ready: true
     * Documentation of Team Roles and Github Contributions (part of Lab09 requirements, also due Wed, 12/08): brief summary of individual team member contributions in `team/contributions/CONTRIBS.md` to provide context to our inspection of your Kanban boards and GitHub activity.
 
     * Full finalized deployment instructions `docs/DEPLOY.md` within your repo (also due Wed, 12/08)
+      
+
 
 * For our grading criteria, please see the [page on your final presentations](https://ucsb-cs148.github.io/f21/exam/project_presentations/)!
 
