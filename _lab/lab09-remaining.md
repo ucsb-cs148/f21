@@ -2,7 +2,7 @@
 layout: lab
 num: lab09-remaining
 ready: true
-desc: "Final Code Release"
+desc: "Final Code Release & Presentation & Documentation"
 assigned: 2021-12-03 11:00
 due: 2021-12-08 23:59
 github_org: "ucsb-cs148-f21"
